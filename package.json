@@ -1,0 +1,14 @@
+{
+  "name": "36262466d6e63a29",
+  "main": "36262466d6e63a29@193.js",
+  "version": "193.0.0",
+  "homepage": "https://observablehq.com/d/36262466d6e63a29",
+  "author": {
+    "name": "Taylor Skaalrud",
+    "url": "https://observablehq.com/@948ca517137f9912"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

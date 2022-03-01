@@ -1,0 +1,8776 @@
+﻿{
+
+  "nodes": [
+
+    {
+      "id": "Agriculture",
+      "group": "Agriculture"
+    },
+    {
+      "id": "Art",
+      "group": "Art"
+    },
+    {
+      "id": "Chaos",
+      "group": "Chaos"
+    },
+    {
+      "id": "Chthonic",
+      "group": "Chthonic"
+    },
+    {
+      "id": "Death",
+      "group": "Death"
+    },
+    {
+      "id": "Earth",
+      "group": "Earth"
+    },
+    {
+      "id": "Fate/Time",
+      "group": "Fate/Time"
+    },
+    {
+      "id": "Fertility",
+      "group": "Fertility"
+    },
+    {
+      "id": "Fire",
+      "group": "Fire"
+    },
+    {
+      "id": "Health",
+      "group": "Health"
+    },
+    {
+      "id": "Hunting",
+      "group": "Hunting"
+    },
+    {
+      "id": "King of the Gods",
+      "group": "King of the Gods"
+    },
+    {
+      "id": "Knowledge",
+      "group": "Knowledge"
+    },
+    {
+      "id": "Law/Justice",
+      "group": "Law/Justice"
+    },
+    {
+      "id": "Light",
+      "group": "Light"
+    },
+    {
+      "id": "Liminal",
+      "group": "Liminal"
+    },
+    {
+      "id": "Luck",
+      "group": "Luck"
+    },
+    {
+      "id": "Lust",
+      "group": "Lust"
+    },
+    {
+      "id": "Magic/Prophecy",
+      "group": "Magic/Prophecy"
+    },
+    {
+      "id": "Moon",
+      "group": "Moon"
+    },
+    {
+      "id": "Nations",
+      "group": "Nations"
+    },
+    {
+      "id": "Nature",
+      "group": "Nature"
+    },
+    {
+      "id": "Night",
+      "group": "Night"
+    },
+    {
+      "id": "Rain",
+      "group": "Rain"
+    },
+    {
+      "id": "Sky",
+      "group": "Sky"
+    },
+    {
+      "id": "Smithing",
+      "group": "Smithing"
+    },
+    {
+      "id": "Sun",
+      "group": "Sun"
+    },
+    {
+      "id": "Thunder",
+      "group": "Thunder"
+    },
+    {
+      "id": "Trees",
+      "group": "Trees"
+    },
+    {
+      "id": "Trickery",
+      "group": "Trickery"
+    },
+    {
+      "id": "Vegetation",
+      "group": "Vegetation"
+    },
+    {
+      "id": "War",
+      "group": "War"
+    },
+    {
+      "id": "Water",
+      "group": "Water"
+    },
+    {
+      "id": "Weather",
+      "group": "Weather"
+    },
+    {
+      "id": "Wind",
+      "group": "Wind"
+    },
+
+
+
+
+
+  {
+    "id": "Ahti",
+    "group": "Germanic",
+    "strength": 1
+  },
+  {
+    "id": "Audra",
+    "group": "Germanic"
+  },
+  {
+    "id": "Baldr",
+    "group": "Germanic"
+  },
+  {
+    "id": "Bragi",
+    "group": "Germanic"
+  },
+  {
+    "id": "Dagr",
+    "group": "Germanic"
+  },
+  {
+    "id": "Dís",
+    "group": "Germanic"
+  },
+  {
+    "id": "Eir",
+    "group": "Germanic"
+  },
+  {
+    "id": "Fjörgyn and Fjörgynn",
+    "group": "Germanic"
+  },
+  {
+    "id": "Forseti",
+    "group": "Germanic"
+  },
+  {
+    "id": "Freyja",
+    "group": "Germanic"
+  },
+  {
+    "id": "Freyr",
+    "group": "Germanic"
+  },
+  {
+    "id": "Frigg",
+    "group": "Germanic"
+  },
+  {
+    "id": "Gefjun",
+    "group": "Germanic"
+  },
+  {
+    "id": "Glöð",
+    "group": "Germanic"
+  },
+  {
+    "id": "Hel",
+    "group": "Germanic"
+  },
+  {
+    "id": "Idis",
+    "group": "Germanic"
+  },
+  {
+    "id": "Iðunn",
+    "group": "Germanic"
+  },
+  {
+    "id": "Ilmarinen",
+    "group": "Germanic"
+  },
+  {
+    "id": "Jörð",
+    "group": "Germanic"
+  },
+  {
+    "id": "Kalma",
+    "group": "Germanic"
+  },
+  {
+    "id": "Kuu",
+    "group": "Germanic"
+  },
+  {
+    "id": "Kári",
+    "group": "Germanic"
+  },
+  {
+    "id": "Lempo",
+    "group": "Germanic"
+  },
+  {
+    "id": "Lofn",
+    "group": "Germanic"
+  },
+  {
+    "id": "Logi",
+    "group": "Germanic"
+  },
+  {
+    "id": "Loki",
+    "group": "Germanic"
+  },
+  {
+    "id": "Metsik",
+    "group": "Germanic"
+  },
+  {
+    "id": "Midgard Serpent",
+    "group": "Germanic"
+    
+  },
+  {
+    "id": "Mielikki",
+    "group": "Germanic"
+  },
+  {
+    "id": "Máni",
+    "group": "Germanic"
+  },
+  {
+    "id": "Mēnô",
+    "group": "Germanic"
+  },
+  {
+    "id": "Nehallenia",
+    "group": "Germanic"
+  },
+  {
+    "id": "Nerthus",
+    "group": "Germanic"
+  },
+  {
+    "id": "Nidhogg",
+    "group": "Germanic"
+  },
+  {
+    "id": "Nix",
+    "group": "Germanic"
+  },
+  {
+    "id": "Njordr",
+    "group": "Germanic"
+  },
+  {
+    "id": "Norns",
+    "group": "Germanic"
+  },
+  {
+    "id": "Nyyrikki",
+    "group": "Germanic"
+  },
+  {
+    "id": "Nótt",
+    "group": "Germanic"
+  },
+  {
+    "id": "Odin",
+    "group": "Germanic"
+  },
+  {
+    "id": "Peko",
+    "group": "Germanic"
+  },
+  {
+    "id": "Perkūnas",
+    "group": "Germanic"
+  },
+  {
+    "id": "Päivätär",
+    "group": "Germanic"
+  },
+  {
+    "id": "Rauni",
+    "group": "Germanic"
+  },
+  {
+    "id": "Rán",
+    "group": "Germanic"
+  },
+  {
+    "id": "Sif",
+    "group": "Germanic"
+  },
+  {
+    "id": "Sjöfn",
+    "group": "Germanic"
+  },
+  {
+    "id": "Skaði",
+    "group": "Germanic"
+  },
+  {
+    "id": "Snotra",
+    "group": "Germanic"
+  },
+  {
+    "id": "Sumarr",
+    "group": "Germanic"
+  },
+  {
+    "id": "Syn",
+    "group": "Germanic"
+  },
+  {
+    "id": "Sága",
+    "group": "Germanic"
+  },
+  {
+    "id": "Sól",
+    "group": "Germanic"
+  },
+  {
+    "id": "Sōwilō",
+    "group": "Germanic"
+  },  
+  {
+    "id": "Surtr",
+    "group": "Germanic"
+  },
+  {
+    "id": "Taara",
+    "group": "Germanic"
+  },
+  {
+    "id": "Tapio",
+    "group": "Germanic"
+  },
+  {
+    "id": "Teiwaz",
+    "group": "Germanic"
+  },
+  {
+    "id": "Thor",
+    "group": "Germanic"
+  },
+  {
+    "id": "Tuoni",
+    "group": "Germanic"
+  },
+  {
+    "id": "Tuuletar",
+    "group": "Germanic"
+  },
+  {
+    "id": "Týr",
+    "group": "Germanic"
+  },
+  {
+    "id": "Ukko",
+    "group": "Germanic"
+  },
+  {
+    "id": "Ullr",
+    "group": "Germanic"
+  },
+  {
+    "id": "Valkyries",
+    "group": "Germanic"
+  },
+  {
+    "id": "Vedenemo",
+    "group": "Germanic"
+  },
+  {
+    "id": "Vellamo",
+    "group": "Germanic"
+  },
+  {
+    "id": "Vetr",
+    "group": "Germanic"
+  },
+  {
+    "id": "Vár",
+    "group": "Germanic"
+  },
+  {
+    "id": "Väinämöinen",
+    "group": "Germanic"
+  },
+  {
+    "id": "Vör",
+    "group": "Germanic"
+  },
+  {
+    "id": "Wayland the Smith",
+    "group": "Germanic"
+  },
+  {
+    "id": "Wyrd",
+    "group": "Germanic"
+  },
+  {
+    "id": "Ymir",
+    "group": "Germanic"
+  },
+  {
+    "id": "Zarni-Ań",
+    "group": "Germanic"
+  },
+  {
+    "id": "[Triple Goddess]",
+    "group": "Germanic"
+  },
+  {
+    "id": "Äkräs",
+    "group": "Germanic"
+  },
+  {
+    "id": "Ægir",
+    "group": "Germanic"
+  },
+  {
+    "id": "Ēostre",
+    "group": "Germanic"
+  },
+
+
+
+
+
+  {
+    "id": "Auštaras",
+    "group": "Slavic"
+  },
+  {
+    "id": "Berstuk",
+    "group": "Slavic"
+  },
+  {
+    "id": "Chernobog",
+    "group": "Slavic"
+  },
+  {
+    "id": "Dažbog",
+    "group": "Slavic"
+  },
+  {
+    "id": "Devana",
+    "group": "Slavic"
+  },
+  {
+    "id": "Dievs",
+    "group": "Slavic"
+  },
+  {
+    "id": "Dimstipatis",
+    "group": "Slavic"
+  },
+  {
+    "id": "Dodola",
+    "group": "Slavic"
+  },
+  {
+    "id": "Dogoda",
+    "group": "Slavic"
+  },
+  {
+    "id": "Dzydzilelya",
+    "group": "Slavic"
+  },
+  {
+    "id": "Hors",
+    "group": "Slavic"
+  },
+  {
+    "id": "Ipabog",
+    "group": "Slavic"
+  },
+  {
+    "id": "Jagaubis",
+    "group": "Slavic"
+  },
+  {
+    "id": "Jarylo",
+    "group": "Slavic"
+  },
+  {
+    "id": "Jarovit",
+    "group": "Slavic"
+  },
+  {
+    "id": "Kostroma",
+    "group": "Slavic"
+  },
+  {
+    "id": "Kresnik",
+    "group": "Slavic"
+  },
+  {
+    "id": "Lada",
+    "group": "Slavic"
+  },
+  {
+    "id": "Leshy",
+    "group": "Slavic"
+  },
+  {
+    "id": "Medeina",
+    "group": "Slavic"
+  },
+  {
+    "id": "Mokosh",
+    "group": "Slavic"
+  },
+  {
+    "id": "Morana",
+    "group": "Slavic"
+  },
+  {
+    "id": "Māra",
+    "group": "Slavic"
+  },
+  {
+    "id": "Peklenc",
+    "group": "Slavic"
+  },
+  {
+    "id": "Perun",
+    "group": "Slavic"
+  },
+  {
+    "id": "Podaga",
+    "group": "Slavic"
+  },
+  {
+    "id": "Radegast",
+    "group": "Slavic"
+  },
+  {
+    "id": "Rod",
+    "group": "Slavic"
+  },
+  {
+    "id": "Rusalki",
+    "group": "Slavic"
+  },
+  {
+    "id": "Siebog",
+    "group": "Slavic"
+  },
+  {
+    "id": "Stribog",
+    "group": "Slavic"
+  },
+  {
+    "id": "Svarog",
+    "group": "Slavic"
+  },
+  {
+    "id": "Svetovid",
+    "group": "Slavic"
+  },
+  {
+    "id": "Triglav",
+    "group": "Slavic"
+  },
+  {
+    "id": "Varpulis",
+    "group": "Slavic"
+  },
+  {
+    "id": "Vejopatis",
+    "group": "Slavic"
+  },
+  {
+    "id": "Veles",
+    "group": "Slavic"
+  },
+  {
+    "id": "Vodyanoi",
+    "group": "Slavic"
+  },
+  {
+    "id": "Zeme",
+    "group": "Slavic"
+  },
+  {
+    "id": "Zorya Utrennaya",
+    "group": "Slavic"
+  },
+  {
+    "id": "Zorya Vechernyaya",
+    "group": "Slavic"
+  },
+  {
+    "id": "Żywie",
+    "group": "Slavic"
+  },
+  {
+    "id": "Žemyna",
+    "group": "Slavic"
+  },
+  {
+    "id": "Živa",
+    "group": "Slavic"
+  },
+
+
+
+
+
+
+  {
+    "id": "Abellio",
+    "group": "Celtic"
+  },
+  {
+    "id": "Abhean",
+    "group": "Celtic"
+  },
+  {
+    "id": "Abnoba",
+    "group": "Celtic"
+  },
+  {
+    "id": "Aed",
+    "group": "Celtic"
+  },
+  {
+    "id": "Airmed",
+    "group": "Celtic"
+  },
+  {
+    "id": "Alaisiagae",
+    "group": "Celtic"
+  },
+  {
+    "id": "Alaunus",
+    "group": "Celtic"
+  },
+  {
+    "id": "Amaethon",
+    "group": "Celtic"
+  },
+  {
+    "id": "Anann",
+    "group": "Celtic"
+  },
+  {
+    "id": "Andarta",
+    "group": "Celtic"
+  },
+  {
+    "id": "Ankou",
+    "group": "Celtic"
+  },
+  {
+    "id": "Aos Sí",
+    "group": "Celtic"
+  },
+  {
+    "id": "Arawn",
+    "group": "Celtic"
+  },
+  {
+    "id": "Arduinna",
+    "group": "Celtic"
+  },
+  {
+    "id": "Arianrhod",
+    "group": "Celtic"
+  },
+  {
+    "id": "Artio",
+    "group": "Celtic"
+  },
+  {
+    "id": "Atepomarus",
+    "group": "Celtic"
+  },
+  {
+    "id": "Badb",
+    "group": "Celtic"
+  },
+  {
+    "id": "Beira",
+    "group": "Celtic"
+  },
+  {
+    "id": "Belenos",
+    "group": "Celtic"
+  },
+  {
+    "id": "Blodeuwedd",
+    "group": "Celtic"
+  },
+  {
+    "id": "Briganti",
+    "group": "Celtic"
+  },
+  {
+    "id": "Brigid",
+    "group": "Celtic"
+  },
+  {
+    "id": "Ceridwen",
+    "group": "Celtic"
+  },
+  {
+    "id": "Cernunnos",
+    "group": "Celtic"
+  },
+  {
+    "id": "Cliodhna",
+    "group": "Celtic"
+  },
+  {
+    "id": "Credhne",
+    "group": "Celtic"
+  },
+  {
+    "id": "Crom Cruach",
+    "group": "Celtic"
+  },
+  {
+    "id": "Dagda",
+    "group": "Celtic"
+  },
+  {
+    "id": "Damara",
+    "group": "Celtic"
+  },
+  {
+    "id": "Damona",
+    "group": "Celtic"
+  },
+  {
+    "id": "Danu (Celtic)",
+    "group": "Celtic"
+  },
+  {
+    "id": "Dian Cecht",
+    "group": "Celtic"
+  },
+  {
+    "id": "Donn",
+    "group": "Celtic"
+  },
+  {
+    "id": "Elatha",
+    "group": "Celtic"
+  },
+  {
+    "id": "Epona",
+    "group": "Celtic"
+  },
+  {
+    "id": "Erecura",
+    "group": "Celtic"
+  },
+  {
+    "id": "Esus",
+    "group": "Celtic"
+  },
+  {
+    "id": "Flidais",
+    "group": "Celtic"
+  },
+  {
+    "id": "Gofannon",
+    "group": "Celtic"
+  },
+  {
+    "id": "Goibniu",
+    "group": "Celtic"
+  },
+  {
+    "id": "Grannus",
+    "group": "Celtic"
+  },
+  {
+    "id": "Gwydion",
+    "group": "Celtic"
+  },
+  {
+    "id": "Gwyn ap Nudd",
+    "group": "Celtic"
+  },
+  {
+    "id": "Ianuaria",
+    "group": "Celtic"
+  },
+  {
+    "id": "Latobius",
+    "group": "Celtic"
+  },
+  {
+    "id": "Litavis",
+    "group": "Celtic"
+  },
+  {
+    "id": "Llŷr",
+    "group": "Celtic"
+  },
+  {
+    "id": "Lugh",
+    "group": "Celtic"
+  },
+  {
+    "id": "Macha",
+    "group": "Celtic"
+  },
+  {
+    "id": "Mannanan",
+    "group": "Celtic"
+  },
+  {
+    "id": "Maponos",
+    "group": "Celtic"
+  },
+  {
+    "id": "Matres and Matronae",
+    "group": "Celtic"
+  },
+  {
+    "id": "Modron",
+    "group": "Celtic"
+  },
+  {
+    "id": "Nantosuelta",
+    "group": "Celtic"
+  },
+  {
+    "id": "Neit",
+    "group": "Celtic"
+  },
+  {
+    "id": "Nemain",
+    "group": "Celtic"
+  },
+  {
+    "id": "Nodens",
+    "group": "Celtic"
+  },
+  {
+    "id": "Nuada",
+    "group": "Celtic"
+  },
+  {
+    "id": "Ogma",
+    "group": "Celtic"
+  },
+  {
+    "id": "Olwen",
+    "group": "Celtic"
+  },
+  {
+    "id": "Onuava",
+    "group": "Celtic"
+  },
+  {
+    "id": "Rosmerta",
+    "group": "Celtic"
+  },
+  {
+    "id": "Sucellus",
+    "group": "Celtic"
+  },
+  {
+    "id": "Sulis",
+    "group": "Celtic"
+  },
+  {
+    "id": "Taranis",
+    "group": "Celtic"
+  },
+  {
+    "id": "The Morrigan",
+    "group": "Celtic"
+  },
+  {
+    "id": "Vesunna",
+    "group": "Celtic"
+  },
+  {
+    "id": "Viridios",
+    "group": "Celtic"
+  },
+  {
+    "id": "[Hooded Spirits]",
+    "group": "Celtic"
+  },
+  {
+    "id": "Áine",
+    "group": "Celtic"
+  },
+  {
+    "id": "Étaín",
+    "group": "Celtic"
+  },
+
+
+
+
+
+  {
+    "id": "Amenominakanushi",
+    "group": "Japanese"
+  },
+  {
+    "id": "Ajisukitakahikone",
+    "group": "Japanese"
+  },
+  {
+    "id": "Amaterasu-Ōmikami",
+    "group": "Japanese"
+  },
+  {
+    "id": "Amatsumikaboshi",
+    "group": "Japanese"
+  },
+  {
+    "id": "Ame-no-Uzume-no-Mikoto",
+    "group": "Japanese"
+  },
+  {
+    "id": "Benzaiten",
+    "group": "Japanese"
+  },
+  {
+    "id": "Bishamonten",
+    "group": "Japanese"
+  },
+  {
+    "id": "Daikokuten",
+    "group": "Japanese"
+  },
+  {
+    "id": "Ebisu",
+    "group": "Japanese"
+  },
+  {
+    "id": "Enma",
+    "group": "Japanese"
+  },
+  {
+    "id": "Fūjin",
+    "group": "Japanese"
+  },
+  {
+    "id": "Fukurokuju",
+    "group": "Japanese"
+  },
+  {
+    "id": "Futsunushi",
+    "group": "Japanese"
+  },
+  {
+    "id": "Hachiman Daimyōjin",
+    "group": "Japanese"
+  },
+  {
+    "id": "Hanzaki Daimyojin",
+    "group": "Japanese"
+  },
+  {
+    "id": "Hoori",
+    "group": "Japanese"
+  },
+  {
+    "id": "Inari Ōkami",
+    "group": "Japanese"
+  },
+  {
+    "id": "Izanagi",
+    "group": "Japanese"
+  },
+  {
+    "id": "Izanami",
+    "group": "Japanese"
+  },
+  {
+    "id": "Kagu-tsuchi",
+    "group": "Japanese"
+  },
+  {
+    "id": "Kichijōten",
+    "group": "Japanese"
+  },
+  {
+    "id": "Kitsune",
+    "group": "Japanese"
+  },
+  {
+    "id": "Kodama",
+    "group": "Japanese"
+  },
+  {
+    "id": "Konohanasakuya-hime",
+    "group": "Japanese"
+  },
+  {
+    "id": "Kuebiko",
+    "group": "Japanese"
+  },
+  {
+    "id": "Kōjin",
+    "group": "Japanese"
+  },
+  {
+    "id": "Mizuchi",
+    "group": "Japanese"
+  },
+  {
+    "id": "Omoikana",
+    "group": "Japanese"
+  },
+  {
+    "id": "Raijin",
+    "group": "Japanese"
+  },
+  {
+    "id": "Ryūjin",
+    "group": "Japanese"
+  },
+  {
+    "id": "Sarutahiko",
+    "group": "Japanese"
+  },
+  {
+    "id": "Shinatobe",
+    "group": "Japanese"
+  },
+  {
+    "id": "Shinda",
+    "group": "Japanese"
+  },
+  {
+    "id": "Shinigami",
+    "group": "Japanese"
+  },
+  {
+    "id": "Suijin",
+    "group": "Japanese"
+  },
+  {
+    "id": "Sumiyoshi sanjin",
+    "group": "Japanese"
+  },
+  {
+    "id": "Susanoo",
+    "group": "Japanese"
+  },
+  {
+    "id": "Suwa Myōjin",
+    "group": "Japanese"
+  },
+  {
+    "id": "Takemikazuchi",
+    "group": "Japanese"
+  },
+  {
+    "id": "Takeminakata",
+    "group": "Japanese"
+  },
+  {
+    "id": "Tenjin",
+    "group": "Japanese"
+  },
+  {
+    "id": "Tuskuyomi",
+    "group": "Japanese"
+  },
+  {
+    "id": "Watatsumi",
+    "group": "Japanese"
+  },
+  {
+    "id": "Ōhoyamatsumi",
+    "group": "Japanese"
+  },
+  {
+    "id": "Ōkuninushi",
+    "group": "Japanese"
+  },
+
+
+
+
+
+  {
+    "id": "Dangun",
+    "group": "Korean"
+  },
+  {
+    "id": "Hwanin",
+    "group": "Korean"
+  },
+  {
+    "id": "Hwanung",
+    "group": "Korean"
+  },
+  {
+    "id": "Imugi",
+    "group": "Korean"
+  },
+  {
+    "id": "Jacheongbi",
+    "group": "Korean"
+  },
+  {
+    "id": "Jangseung",
+    "group": "Korean"
+  },
+  {
+    "id": "Jik",
+    "group": "Korean"
+  },
+  {
+    "id": "Jowangsin",
+    "group": "Korean"
+  },
+  {
+    "id": "Lady Saso",
+    "group": "Korean"
+  },
+  {
+    "id": "Munshin",
+    "group": "Korean"
+  },
+  {
+    "id": "Myeongwol",
+    "group": "Korean"
+  },
+  {
+    "id": "Nulgupjisin",
+    "group": "Korean"
+  },
+  {
+    "id": "Sa",
+    "group": "Korean"
+  },
+
+
+
+
+
+  {
+    "id": "Agni",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Ap",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Aryamna",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Ashta Lakshmi",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Banka-Mundi",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Brahma",
+    "group": "Indian/Hindu/Vedic"
+  },  
+  {
+    "id": "Caditi",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Chandra",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Dakshinamirthy",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Danu (Indo)",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Dhumavati",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Diti",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Dyauspitar",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Ganesha",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Gayatri",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Ila",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Indra",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Jyestha",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Kala",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Kali",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Kama",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Kartikeya",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Krishna",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Kubera",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Mahākāla",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Mariamman",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Nirrti",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Padmavati",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Parvati",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Phra Mae Thorani",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Prajanya",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Prithvi",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Rati",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Ratri",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Rudra",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Rāgarāja",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Saraswati",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Savitri",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Shakti",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Shiva",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Surya",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Trimurti",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Ushas",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Vajrapani",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Varuna",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Vayu",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Vishnu",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Vishvakarman",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Vritra",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Yama",
+    "group": "Indian/Hindu/Vedic"
+  },
+  {
+    "id": "Yamaraja",
+    "group": "Indian/Hindu/Vedic"
+  },
+
+
+
+
+
+  {
+    "id": "Acheron",
+    "group": "Greek"
+  },
+  {
+    "id": "Achlys",
+    "group": "Greek"
+  },
+  {
+    "id": "Adrasteia",
+    "group": "Greek"
+  },
+  {
+    "id": "Aegaeon",
+    "group": "Greek"
+  },
+  {
+    "id": "Aether",
+    "group": "Greek"
+  },
+  {
+    "id": "Agathodaemon",
+    "group": "Greek"
+  },
+  {
+    "id": "Aion",
+    "group": "Greek"
+  },
+  {
+    "id": "Alectrona",
+    "group": "Greek"
+  },
+  {
+    "id": "Alpheus",
+    "group": "Greek"
+  },
+  {
+    "id": "Amphitrite",
+    "group": "Greek"
+  },
+  {
+    "id": "Ananke",
+    "group": "Greek"
+  },
+  {
+    "id": "Anemoi",
+    "group": "Greek"
+  },
+  {
+    "id": "Angelos",
+    "group": "Greek"
+  },
+  {
+    "id": "Aphaea",
+    "group": "Greek"
+  },
+  {
+    "id": "Aphrodite",
+    "group": "Greek"
+  },
+  {
+    "id": "Apollo",
+    "group": "Greek"
+  },
+  {
+    "id": "Ares",
+    "group": "Greek"
+  },
+  {
+    "id": "Aristaeus",
+    "group": "Greek"
+  },
+  {
+    "id": "Artemis",
+    "group": "Greek"
+  },
+  {
+    "id": "Asclepius",
+    "group": "Greek"
+  },
+  {
+    "id": "Asteria",
+    "group": "Greek"
+  },
+  {
+    "id": "Astraea",
+    "group": "Greek"
+  },
+  {
+    "id": "Astraeus",
+    "group": "Greek"
+  },
+  {
+    "id": "Astrape and Brontes",
+    "group": "Greek"
+  },
+  {
+    "id": "Athena",
+    "group": "Greek"
+  },
+  {
+    "id": "Attis",
+    "group": "Greek"
+  },
+  {
+    "id": "Aura",
+    "group": "Greek"
+  },
+  {
+    "id": "Bassareus",
+    "group": "Greek"
+  },
+  {
+    "id": "Caerus",
+    "group": "Greek"
+  },
+  {
+    "id": "Carcinus",
+    "group": "Greek"
+  },
+  {
+    "id": "Ceto",
+    "group": "Greek"
+  },
+  {
+    "id": "Chaos (God)",
+    "group": "Greek"
+  },
+  {
+    "id": "Charon",
+    "group": "Greek"
+  },
+  {
+    "id": "Chiron",
+    "group": "Greek"
+  },  {
+    "id": "Charybdis",
+    "group": "Greek"
+  },
+  {
+    "id": "Chloris",
+    "group": "Greek"
+  },
+  {
+    "id": "Chronos",
+    "group": "Greek"
+  },
+  {
+    "id": "Circe",
+    "group": "Greek"
+  },
+  {
+    "id": "Cocytus",
+    "group": "Greek"
+  },
+  {
+    "id": "Coeus",
+    "group": "Greek"
+  },
+  {
+    "id": "Cronus",
+    "group": "Greek"
+  },
+  {
+    "id": "Cybele",
+    "group": "Greek"
+  },
+  {
+    "id": "Cyclops",
+    "group": "Greek"
+  },
+  {
+    "id": "Demeter",
+    "group": "Greek"
+  },
+  {
+    "id": "Dike",
+    "group": "Greek"
+  },
+  {
+    "id": "Dionysus",
+    "group": "Greek"
+  },
+  {
+    "id": "Doris",
+    "group": "Greek"
+  },
+  {
+    "id": "Dryads",
+    "group": "Greek"
+  },
+  {
+    "id": "Eileithyia",
+    "group": "Greek"
+  },
+  {
+    "id": "Eirene",
+    "group": "Greek"
+  },
+  {
+    "id": "Electra",
+    "group": "Greek"
+  },
+  {
+    "id": "Eos",
+    "group": "Greek"
+  },
+  {
+    "id": "Erebus",
+    "group": "Greek"
+  },
+  {
+    "id": "Eridanos",
+    "group": "Greek"
+  },
+  {
+    "id": "Erinyes",
+    "group": "Greek"
+  },
+  {
+    "id": "Eris",
+    "group": "Greek"
+  },  
+  {
+    "id": "Gaia",
+    "group": "Greek"
+  },
+  {
+    "id": "Hades",
+    "group": "Greek"
+  },
+  {
+    "id": "Hecate",
+    "group": "Greek"
+  },
+  {
+    "id": "Hedone",
+    "group": "Greek"
+  },
+  {
+    "id": "Hegemone",
+    "group": "Greek"
+  },
+  {
+    "id": "Heimarmene",
+    "group": "Greek"
+  },
+  {
+    "id": "Helios",
+    "group": "Greek"
+  },
+  {
+    "id": "Hemera",
+    "group": "Greek"
+  },
+  {
+    "id": "Hephaestus",
+    "group": "Greek"
+  },
+  {
+    "id": "Hera",
+    "group": "Greek"
+  },
+  {
+    "id": "Hermes",
+    "group": "Greek"
+  },
+  {
+    "id": "Hestia",
+    "group": "Greek"
+  },
+  {
+    "id": "Horae",
+    "group": "Greek"
+  },
+  {
+    "id": "Hydra",
+    "group": "Greek"
+  },
+  {
+    "id": "Hygieia",
+    "group": "Greek"
+  },
+  {
+    "id": "Hyperion",
+    "group": "Greek"
+  },
+  {
+    "id": "Hypnos",
+    "group": "Greek"
+  },
+  {
+    "id": "Iaso",
+    "group": "Greek"
+  },
+  {
+    "id": "Illithyia",
+    "group": "Greek"
+  },
+  {
+    "id": "Iris",
+    "group": "Greek"
+  },
+  {
+    "id": "Kairos",
+    "group": "Greek"
+  },
+  {
+    "id": "Karmanor",
+    "group": "Greek"
+  },
+  {
+    "id": "Keres",
+    "group": "Greek"
+  },
+  {
+    "id": "Kratos",
+    "group": "Greek"
+  },
+  {
+    "id": "Lampades",
+    "group": "Greek"
+  },
+  {
+    "id": "Lethe",
+    "group": "Greek"
+  },
+  {
+    "id": "Leucothea",
+    "group": "Greek"
+  },
+  {
+    "id": "Limos",
+    "group": "Greek"
+  },
+  {
+    "id": "Macaria",
+    "group": "Greek"
+  },
+  {
+    "id": "Melinoë",
+    "group": "Greek"
+  },
+  {
+    "id": "Metis",
+    "group": "Greek"
+  },
+  {
+    "id": "Moirai",
+    "group": "Greek"
+  },
+  {
+    "id": "Moros",
+    "group": "Greek"
+  },
+  {
+    "id": "Muses",
+    "group": "Greek"
+  },
+  {
+    "id": "Nemesis",
+    "group": "Greek"
+  },
+  {
+    "id": "Nereus",
+    "group": "Greek"
+  },
+  {
+    "id": "Nerites",
+    "group": "Greek"
+  },
+  {
+    "id": "Nymps",
+    "group": "Greek"
+  },
+  {
+    "id": "Nyx",
+    "group": "Greek"
+  },  
+  {
+    "id": "Oceanus",
+    "group": "Greek"
+  },
+  {
+    "id": "Paean",
+    "group": "Greek"
+  },
+  {
+    "id": "Pallas",
+    "group": "Greek"
+  },
+  {
+    "id": "Pan",
+    "group": "Greek"
+  },
+  {
+    "id": "Panacea",
+    "group": "Greek"
+  },
+  {
+    "id": "Peitho",
+    "group": "Greek"
+  },
+  {
+    "id": "Persephone",
+    "group": "Greek"
+  },
+  {
+    "id": "Perses",
+    "group": "Greek"
+  },
+  {
+    "id": "Phanes",
+    "group": "Greek"
+  },
+  {
+    "id": "Philomelus",
+    "group": "Greek"
+  },
+  {
+    "id": "Philotes",
+    "group": "Greek"
+  },
+  {
+    "id": "Phlegethon and Styx",
+    "group": "Greek"
+  },
+  {
+    "id": "Phoebe",
+    "group": "Greek"
+  },
+  {
+    "id": "Phorcys",
+    "group": "Greek"
+  },
+  {
+    "id": "Physis",
+    "group": "Greek"
+  },
+  {
+    "id": "Plutus",
+    "group": "Greek"
+  },
+  {
+    "id": "Pontus",
+    "group": "Greek"
+  },
+  {
+    "id": "Poseidon",
+    "group": "Greek"
+  },
+  {
+    "id": "Potamoi",
+    "group": "Greek"
+  },
+  {
+    "id": "Priapus",
+    "group": "Greek"
+  },
+  {
+    "id": "Prometheus",
+    "group": "Greek"
+  },
+  {
+    "id": "Proteus",
+    "group": "Greek"
+  },
+  {
+    "id": "Psamathe",
+    "group": "Greek"
+  },
+  {
+    "id": "Rhea",
+    "group": "Greek"
+  },
+  {
+    "id": "Satyrs",
+    "group": "Greek"
+  },
+  {
+    "id": "Selene",
+    "group": "Greek"
+  },
+  {
+    "id": "Sisyphus",
+    "group": "Greek"
+  },
+  {
+    "id": "Tartarus",
+    "group": "Greek"
+  },
+  {
+    "id": "Tethys",
+    "group": "Greek"
+  },
+  {
+    "id": "Thalassa",
+    "group": "Greek"
+  },
+  {
+    "id": "Thanatos",
+    "group": "Greek"
+  },
+  {
+    "id": "Thaumas",
+    "group": "Greek"
+  },
+  {
+    "id": "The Erotes",
+    "group": "Greek"
+  },
+  {
+    "id": "Theia",
+    "group": "Greek"
+  },
+  {
+    "id": "Themis",
+    "group": "Greek"
+  },
+  {
+    "id": "Triptolemus",
+    "group": "Greek"
+  },
+  {
+    "id": "Triton",
+    "group": "Greek"
+  },
+  {
+    "id": "Trophonius",
+    "group": "Greek"
+  },
+  {
+    "id": "Tyche",
+    "group": "Greek"
+  },
+  {
+    "id": "Tychon",
+    "group": "Greek"
+  },
+  {
+    "id": "Typhon",
+    "group": "Greek"
+  },
+  {
+    "id": "Uranus",
+    "group": "Greek"
+  },
+  {
+    "id": "Uto",
+    "group": "Greek"
+  },  {
+    "id": "Zeus",
+    "group": "Greek"
+  },
+
+
+
+
+
+  {
+    "id": "Abundantia",
+    "group": "Roman"
+  },
+  {
+    "id": "Adranus",
+    "group": "Roman"
+  },
+  {
+    "id": "Aeternitas",
+    "group": "Roman"
+  },
+  {
+    "id": "Angitia",
+    "group": "Roman"
+  },
+  {
+    "id": "Anna Perenna",
+    "group": "Roman"
+  },
+  {
+    "id": "Antevorta",
+    "group": "Roman"
+  },
+  {
+    "id": "Aurora",
+    "group": "Roman"
+  },
+  {
+    "id": "Averruncus",
+    "group": "Roman"
+  },
+  {
+    "id": "Bacchus",
+    "group": "Roman"
+  },
+  {
+    "id": "Bellona",
+    "group": "Roman"
+  },
+  {
+    "id": "Bona Dea",
+    "group": "Roman"
+  },
+  {
+    "id": "Caca",
+    "group": "Roman"
+  },
+  {
+    "id": "Cacus",
+    "group": "Roman"
+  },
+  {
+    "id": "Candelifera",
+    "group": "Roman"
+  },
+  {
+    "id": "Cardea",
+    "group": "Roman"
+  },
+  {
+    "id": "Carmenta",
+    "group": "Roman"
+  },
+  {
+    "id": "Carna",
+    "group": "Roman"
+  },
+  {
+    "id": "Caulus",
+    "group": "Roman"
+  },
+  {
+    "id": "Ceres",
+    "group": "Roman"
+  },
+  {
+    "id": "Cupid",
+    "group": "Roman"
+  },
+  {
+    "id": "Dea Tacita",
+    "group": "Roman"
+  },
+  {
+    "id": "Di inferi",
+    "group": "Roman"
+  },
+  {
+    "id": "Diana",
+    "group": "Roman"
+  },
+  {
+    "id": "Dis Pater",
+    "group": "Roman"
+  },
+  {
+    "id": "Endovelicus",
+    "group": "Roman"
+  },
+  {
+    "id": "Fascinus",
+    "group": "Roman"
+  },
+  {
+    "id": "Faunus",
+    "group": "Roman"
+  },
+  {
+    "id": "Febris",
+    "group": "Roman"
+  },
+  {
+    "id": "Fecunditas",
+    "group": "Roman"
+  },
+  {
+    "id": "Felicitas",
+    "group": "Roman"
+  },
+  {
+    "id": "Feronia",
+    "group": "Roman"
+  },
+  {
+    "id": "Flora",
+    "group": "Roman"
+  },
+  {
+    "id": "Fontus",
+    "group": "Roman"
+  },
+  {
+    "id": "Fornax",
+    "group": "Roman"
+  },
+  {
+    "id": "Fortuna",
+    "group": "Roman"
+  },
+  {
+    "id": "Fufluns",
+    "group": "Roman"
+  },
+  {
+    "id": "Fulgora",
+    "group": "Roman"
+  },
+  {
+    "id": "Gobannus",
+    "group": "Roman"
+  },
+  {
+    "id": "Honos",
+    "group": "Roman"
+  },
+  {
+    "id": "Inuus",
+    "group": "Roman"
+  },
+  {
+    "id": "Janus",
+    "group": "Roman"
+  },
+  {
+    "id": "Juno",
+    "group": "Roman"
+  },
+  {
+    "id": "Jupiter",
+    "group": "Roman"
+  },
+  {
+    "id": "Juturna",
+    "group": "Roman"
+  },
+  {
+    "id": "Latona",
+    "group": "Roman"
+  },
+  {
+    "id": "Lemures",
+    "group": "Roman"
+  },
+  {
+    "id": "Liber",
+    "group": "Roman"
+  },
+  {
+    "id": "Libera",
+    "group": "Roman"
+  },
+  {
+    "id": "Libitina",
+    "group": "Roman"
+  },
+  {
+    "id": "Luna",
+    "group": "Roman"
+  },
+  {
+    "id": "Manes",
+    "group": "Roman"
+  },
+  {
+    "id": "Mania",
+    "group": "Roman"
+  },
+  {
+    "id": "Mars",
+    "group": "Roman"
+  },
+  {
+    "id": "Mercury",
+    "group": "Roman"
+  },
+  {
+    "id": "Minerva",
+    "group": "Roman"
+  },
+  {
+    "id": "Mors",
+    "group": "Roman"
+  },
+  {
+    "id": "Mother Nature",
+    "group": "Roman"
+  },
+  {
+    "id": "Mutunus Tutunus",
+    "group": "Roman"
+  },
+  {
+    "id": "Nemestrinus",
+    "group": "Roman"
+  },
+  {
+    "id": "Nenia Dea",
+    "group": "Roman"
+  },
+  {
+    "id": "Neptune",
+    "group": "Roman"
+  },
+  {
+    "id": "Nerio",
+    "group": "Roman"
+  },
+  {
+    "id": "Nox",
+    "group": "Roman"
+  },
+  {
+    "id": "Opis",
+    "group": "Roman"
+  },
+  {
+    "id": "Ops",
+    "group": "Roman"
+  },
+  {
+    "id": "Orcus",
+    "group": "Roman"
+  },
+  {
+    "id": "Parcae",
+    "group": "Roman"
+  },
+  {
+    "id": "Picumnus",
+    "group": "Roman"
+  },
+  {
+    "id": "Pilumnus",
+    "group": "Roman"
+  },
+  {
+    "id": "Pluto",
+    "group": "Roman"
+  },
+  {
+    "id": "Pomona",
+    "group": "Roman"
+  },
+  {
+    "id": "Portunus",
+    "group": "Roman"
+  },
+  {
+    "id": "Postverta",
+    "group": "Roman"
+  },
+  {
+    "id": "Proserpina",
+    "group": "Roman"
+  },
+  {
+    "id": "Providentia",
+    "group": "Roman"
+  },
+  {
+    "id": "Robigus",
+    "group": "Roman"
+  },
+  {
+    "id": "Salacia",
+    "group": "Roman"
+  },
+  {
+    "id": "Saturn",
+    "group": "Roman"
+  },
+  {
+    "id": "Scotus",
+    "group": "Roman"
+  },
+  {
+    "id": "Silvanus",
+    "group": "Roman"
+  },
+  {
+    "id": "Sol",
+    "group": "Roman"
+  },
+  {
+    "id": "Somnus",
+    "group": "Roman"
+  },
+  {
+    "id": "Soranus",
+    "group": "Roman"
+  },
+  {
+    "id": "Sors",
+    "group": "Roman"
+  },
+  {
+    "id": "Stata Mater",
+    "group": "Roman"
+  },
+  {
+    "id": "Suadela",
+    "group": "Roman"
+  },
+  {
+    "id": "Summanus",
+    "group": "Roman"
+  },
+  {
+    "id": "Tempestas",
+    "group": "Roman"
+  },
+  {
+    "id": "Terminus",
+    "group": "Roman"
+  },
+  {
+    "id": "Terra",
+    "group": "Roman"
+  },
+  {
+    "id": "Trivia",
+    "group": "Roman"
+  },
+  {
+    "id": "Valetudo",
+    "group": "Roman"
+  },
+  {
+    "id": "Vejovis",
+    "group": "Roman"
+  },
+  {
+    "id": "Venus",
+    "group": "Roman"
+  },
+  {
+    "id": "Verminus",
+    "group": "Roman"
+  },
+  {
+    "id": "Vertumnus",
+    "group": "Roman"
+  },
+  {
+    "id": "Vesta",
+    "group": "Roman"
+  },
+  {
+    "id": "Victoria",
+    "group": "Roman"
+  },
+  {
+    "id": "Viduus",
+    "group": "Roman"
+  },
+  {
+    "id": "Virtus",
+    "group": "Roman"
+  },
+  {
+    "id": "Volturnus",
+    "group": "Roman"
+  },
+  {
+    "id": "Voluptas",
+    "group": "Roman"
+  },
+  {
+    "id": "Vulcan",
+    "group": "Roman"
+  },
+
+
+
+
+
+  {
+    "id": "Aker",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Ammit",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Amun",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Amun-Ra",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Anubis",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Anuket",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Apep",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Ash",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Aten",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Atum",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Bast",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Bes",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Duamutef Hapi Imset and Qebehsenuef",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Geb",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Hapi",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Hathor",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Heka",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Hemsut",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Heqet",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Heryshaf",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Horus",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Huh",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Isis",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Iussaset",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Khepri",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Khnum",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Khonsu",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Kuk",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Legba",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Maahes",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Maat",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Mehet-Weret",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Menhit",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Meret",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Mesenet",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Min",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Montu",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Nefertem",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Neith",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Neper",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Nephthys",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Nu",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Nut",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Osiris",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Pakhet",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Ptah",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Qetesh",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Ra",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Renenutet",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Satet",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Seker",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Sekhmet",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Serket",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Seshat",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Set",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Shai",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Shesmu",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Shu",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Sia",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Sobek",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Sopdet",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Sopdu",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Sutekh",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Ta-Bitjet",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Tawaret",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Tefnut",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Thoth",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Wadjet",
+    "group": "Egyptian"
+  },
+  {
+    "id": "Wepwawet",
+    "group": "Egyptian"
+  },
+
+
+
+
+
+  {
+    "id": "!Xu",
+    "group": "African"
+  },
+  {
+    "id": "Agwu",
+    "group": "African"
+  },
+  {
+    "id": "Aja",
+    "group": "African"
+  },
+  {
+    "id": "Ala",
+    "group": "African"
+  },
+  {
+    "id": "Anansi",
+    "group": "African"
+  },
+  {
+    "id": "Asase Ya",
+    "group": "African"
+  },
+  {
+    "id": "Azaka Medeh",
+    "group": "African"
+  },
+  {
+    "id": "Baron Samedi",
+    "group": "African"
+  },
+  {
+    "id": "Dan Petro",
+    "group": "African"
+  },
+  {
+    "id": "Eshu",
+    "group": "African"
+  },
+  {
+    "id": "Gurzil",
+    "group": "African"
+  },
+  {
+    "id": "Ifri",
+    "group": "African"
+  },
+  {
+    "id": "Ikenga",
+    "group": "African"
+  },
+  {
+    "id": "Jengu",
+    "group": "African"
+  },
+  {
+    "id": "John the Conqueror",
+    "group": "African"
+  },
+  {
+    "id": "Kokou",
+    "group": "African"
+  },
+  {
+    "id": "Magec",
+    "group": "African"
+  },
+  {
+    "id": "Mangwe",
+    "group": "African"
+  },
+  {
+    "id": "Mawu",
+    "group": "African"
+  },
+  {
+    "id": "Mulungu",
+    "group": "African"
+  },
+  {
+    "id": "Ngai",
+    "group": "African"
+  },
+  {
+    "id": "Nyame",
+    "group": "African"
+  },
+  {
+    "id": "Ogoun",
+    "group": "African"
+  },
+  {
+    "id": "Oko",
+    "group": "African"
+  },
+  {
+    "id": "Olokun",
+    "group": "African"
+  },
+  {
+    "id": "Olorun",
+    "group": "African"
+  },
+  {
+    "id": "Ori",
+    "group": "African"
+  },
+  {
+    "id": "Orunmila",
+    "group": "African"
+  },
+  {
+    "id": "Osanyin",
+    "group": "African"
+  },
+  {
+    "id": "Oshun",
+    "group": "African"
+  },
+  {
+    "id": "Oya",
+    "group": "African"
+  },
+  {
+    "id": "Shango",
+    "group": "African"
+  },
+  {
+    "id": "Umvelinquangi",
+    "group": "African"
+  },
+  {
+    "id": "Xamaba",
+    "group": "African"
+  },
+  {
+    "id": "Yemoja",
+    "group": "African"
+  },
+
+
+
+
+
+  {
+    "id": "A'as",
+    "group": "Eastern"
+  },
+  {
+    "id": "Abzu",
+    "group": "Eastern"
+  },
+  {
+    "id": "Adad",
+    "group": "Eastern"
+  },
+  {
+    "id": "Agasaya",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ahura Mazda",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ahurani",
+    "group": "Eastern"
+  },
+  {
+    "id": "Aita",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ak Ana",
+    "group": "Eastern"
+  },
+  {
+    "id": "Al-Quam",
+    "group": "Eastern"
+  },
+  {
+    "id": "Alaz",
+    "group": "Eastern"
+  },
+  {
+    "id": "Albina",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ama-arhus",
+    "group": "Eastern"
+  },
+  {
+    "id": "Amasagnul",
+    "group": "Eastern"
+  },
+  {
+    "id": "Anahit",
+    "group": "Eastern"
+  },
+  {
+    "id": "Anahita",
+    "group": "Eastern"
+  },
+  {
+    "id": "Anat",
+    "group": "Eastern"
+  },
+  {
+    "id": "Anbay",
+    "group": "Eastern"
+  },
+  {
+    "id": "Angra Mainyi (Ahriman)",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ani",
+    "group": "Eastern"
+  },
+  {
+    "id": "Anshar",
+    "group": "Eastern"
+  },
+  {
+    "id": "Anu",
+    "group": "Eastern"
+  },
+  {
+    "id": "Anunnaki",
+    "group": "Eastern"
+  },
+  {
+    "id": "Apam Napat",
+    "group": "Eastern"
+  },
+  {
+    "id": "Apsat",
+    "group": "Eastern"
+  },
+  {
+    "id": "Aramazd",
+    "group": "Eastern"
+  },
+  {
+    "id": "Arinna",
+    "group": "Eastern"
+  },
+  {
+    "id": "Artume",
+    "group": "Eastern"
+  },
+  {
+    "id": "Aruna",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ashi",
+    "group": "Eastern"
+  },
+  {
+    "id": "Asmān",
+    "group": "Eastern"
+  },
+  {
+    "id": "Astarte",
+    "group": "Eastern"
+  },
+  {
+    "id": "Astiwihad",
+    "group": "Eastern"
+  },
+  {
+    "id": "Astoreth",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ay Ata",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ba'al",
+    "group": "Eastern"
+  },
+  {
+    "id": "Bel",
+    "group": "Eastern"
+  },
+  {
+    "id": "Bendis",
+    "group": "Eastern"
+  },
+  {
+    "id": "Cel",
+    "group": "Eastern"
+  },
+  {
+    "id": "Chista",
+    "group": "Eastern"
+  },
+  {
+    "id": "Culga",
+    "group": "Eastern"
+  },
+  {
+    "id": "Dagon",
+    "group": "Eastern"
+  },
+  {
+    "id": "Dali",
+    "group": "Eastern"
+  },
+  {
+    "id": "Damu",
+    "group": "Eastern"
+  },
+  {
+    "id": "Derzelas",
+    "group": "Eastern"
+  },
+  {
+    "id": "Dhat-Badan",
+    "group": "Eastern"
+  },
+  {
+    "id": "Dumuzid",
+    "group": "Eastern"
+  },
+  {
+    "id": "Dyeus",
+    "group": "Eastern"
+  },
+  {
+    "id": "El",
+    "group": "Eastern"
+  },
+  {
+    "id": "Emesh",
+    "group": "Eastern"
+  },
+  {
+    "id": "Enki",
+    "group": "Eastern"
+  },
+  {
+    "id": "Enlil",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ereshkigal",
+    "group": "Eastern"
+  },
+  {
+    "id": "Falak",
+    "group": "Eastern"
+  },
+  {
+    "id": "Februus",
+    "group": "Eastern"
+  },
+  {
+    "id": "Gerra",
+    "group": "Eastern"
+  },
+  {
+    "id": "Gibil",
+    "group": "Eastern"
+  },
+  {
+    "id": "Gun Ana",
+    "group": "Eastern"
+  },
+  {
+    "id": "Hadad",
+    "group": "Eastern"
+  },
+  {
+    "id": "Haoma",
+    "group": "Eastern"
+  },
+  {
+    "id": "Hatepuna",
+    "group": "Eastern"
+  },
+  {
+    "id": "Haukim",
+    "group": "Eastern"
+  },
+  {
+    "id": "Hausos",
+    "group": "Eastern"
+  },
+  {
+    "id": "Illuyanka",
+    "group": "Eastern"
+  },
+  {
+    "id": "Inanna",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ishkur",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ishtar",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ishum",
+    "group": "Eastern"
+  },
+  {
+    "id": "Istustaya and Papaya",
+    "group": "Eastern"
+  },
+  {
+    "id": "Kamrušepa",
+    "group": "Eastern"
+  },
+  {
+    "id": "Kayra",
+    "group": "Eastern"
+  },
+  {
+    "id": "Kishar",
+    "group": "Eastern"
+  },
+  {
+    "id": "Kothar-wa-Khasis",
+    "group": "Eastern"
+  },
+  {
+    "id": "Koyash",
+    "group": "Eastern"
+  },
+  {
+    "id": "Kumarbi",
+    "group": "Eastern"
+  },
+  {
+    "id": "Kus",
+    "group": "Eastern"
+  },
+  {
+    "id": "Kyzaghan",
+    "group": "Eastern"
+  },
+  {
+    "id": "Lahar",
+    "group": "Eastern"
+  },
+  {
+    "id": "Laima",
+    "group": "Eastern"
+  },
+  {
+    "id": "Laima/Dalia",
+    "group": "Eastern"
+  },
+  {
+    "id": "Laran",
+    "group": "Eastern"
+  },
+  {
+    "id": "Leviathan",
+    "group": "Eastern"
+  },
+  {
+    "id": "Liluri",
+    "group": "Eastern"
+  },
+  {
+    "id": "Losna",
+    "group": "Eastern"
+  },
+  {
+    "id": "Mamitu",
+    "group": "Eastern"
+  },
+  {
+    "id": "Mandanu",
+    "group": "Eastern"
+  },
+  {
+    "id": "Mantus",
+    "group": "Eastern"
+  },
+  {
+    "id": "Manu the Great",
+    "group": "Eastern"
+  },
+  {
+    "id": "Manāt",
+    "group": "Eastern"
+  },
+  {
+    "id": "Marduk",
+    "group": "Eastern"
+  },
+  {
+    "id": "Maris",
+    "group": "Eastern"
+  },
+  {
+    "id": "Menrva",
+    "group": "Eastern"
+  },
+  {
+    "id": "Milda",
+    "group": "Eastern"
+  },
+  {
+    "id": "Mithra",
+    "group": "Eastern"
+  },
+  {
+    "id": "Mot",
+    "group": "Eastern"
+  },
+  {
+    "id": "Māh",
+    "group": "Eastern"
+  },
+  {
+    "id": "Nabu",
+    "group": "Eastern"
+  },
+  {
+    "id": "Nahudni",
+    "group": "Eastern"
+  },
+  {
+    "id": "Nammu",
+    "group": "Eastern"
+  },
+  {
+    "id": "Namtar",
+    "group": "Eastern"
+  },
+  {
+    "id": "Nanaya",
+    "group": "Eastern"
+  },
+  {
+    "id": "Nanshe",
+    "group": "Eastern"
+  },
+  {
+    "id": "Nergal",
+    "group": "Eastern"
+  },
+  {
+    "id": "Neto",
+    "group": "Eastern"
+  },
+  {
+    "id": "Nidaba",
+    "group": "Eastern"
+  },
+  {
+    "id": "Nikkal",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ninazu",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ningishzida",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ninhursag",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ninlil",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ninsar",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ninsusinak",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ninurta",
+    "group": "Eastern"
+  },
+  {
+    "id": "Nisroch",
+    "group": "Eastern"
+  },
+  {
+    "id": "Nortia",
+    "group": "Eastern"
+  },
+  {
+    "id": "Nuska",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ohrmazd",
+    "group": "Eastern"
+  },
+  {
+    "id": "Pazuzu",
+    "group": "Eastern"
+  },
+  {
+    "id": "Prince of Darkness",
+    "group": "Eastern"
+  },
+  {
+    "id": "Resheph",
+    "group": "Eastern"
+  },
+  {
+    "id": "Rundas",
+    "group": "Eastern"
+  },
+  {
+    "id": "Sa'd",
+    "group": "Eastern"
+  },
+  {
+    "id": "Sabazios",
+    "group": "Eastern"
+  },
+  {
+    "id": "Sandaramet",
+    "group": "Eastern"
+  },
+  {
+    "id": "Selvans",
+    "group": "Eastern"
+  },
+  {
+    "id": "Sethlans",
+    "group": "Eastern"
+  },
+  {
+    "id": "Shapash",
+    "group": "Eastern"
+  },
+  {
+    "id": "Sharra Itu",
+    "group": "Eastern"
+  },
+  {
+    "id": "Shaushka",
+    "group": "Eastern"
+  },
+  {
+    "id": "Shulmanu",
+    "group": "Eastern"
+  },
+  {
+    "id": "Sin",
+    "group": "Eastern"
+  },
+  {
+    "id": "Sirsir",
+    "group": "Eastern"
+  },
+  {
+    "id": "Spenta Armaiti",
+    "group": "Eastern"
+  },
+  {
+    "id": "Sumugan",
+    "group": "Eastern"
+  },
+  {
+    "id": "Sydyk",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ta'lab",
+    "group": "Eastern"
+  },
+  {
+    "id": "Tammuz",
+    "group": "Eastern"
+  },
+  {
+    "id": "Tanit",
+    "group": "Eastern"
+  },
+  {
+    "id": "Tannin",
+    "group": "Eastern"
+  },
+  {
+    "id": "Tarhunna",
+    "group": "Eastern"
+  },
+  {
+    "id": "Telipinu",
+    "group": "Eastern"
+  },
+  {
+    "id": "Tengri",
+    "group": "Eastern"
+  },
+  {
+    "id": "Teshub",
+    "group": "Eastern"
+  },
+  {
+    "id": "Thesan",
+    "group": "Eastern"
+  },
+  {
+    "id": "Thracian Rider",
+    "group": "Eastern"
+  },
+  {
+    "id": "Tiamat",
+    "group": "Eastern"
+  },
+  {
+    "id": "Tinia",
+    "group": "Eastern"
+  },
+  {
+    "id": "Tir",
+    "group": "Eastern"
+  },
+  {
+    "id": "Tishtrya",
+    "group": "Eastern"
+  },
+  {
+    "id": "Tuchulcha",
+    "group": "Eastern"
+  },
+  {
+    "id": "Turan",
+    "group": "Eastern"
+  },
+  {
+    "id": "Tīštar",
+    "group": "Eastern"
+  },
+  {
+    "id": "Urash",
+    "group": "Eastern"
+  },
+  {
+    "id": "Usil",
+    "group": "Eastern"
+  },
+  {
+    "id": "Utu",
+    "group": "Eastern"
+  },
+  {
+    "id": "Uša",
+    "group": "Eastern"
+  },
+  {
+    "id": "Vanth",
+    "group": "Eastern"
+  },
+  {
+    "id": "Wadd",
+    "group": "Eastern"
+  },
+  {
+    "id": "Xwarxšēd",
+    "group": "Eastern"
+  },
+  {
+    "id": "Yahweh",
+    "group": "Eastern"
+  },
+  {
+    "id": "Yam",
+    "group": "Eastern"
+  },
+  {
+    "id": "Yarikh",
+    "group": "Eastern"
+  },
+  {
+    "id": "Yer Tanri",
+    "group": "Eastern"
+  },
+  {
+    "id": "Zurvan",
+    "group": "Eastern"
+  },
+  {
+    "id": "Ḫapantali",
+    "group": "Eastern"
+  }
+
+  ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "links": [
+    {
+      "source": "Äkräs",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Freyr",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Peko",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Ukko",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Jarylo",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Radegast",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Veles",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Abellio",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Amaethon",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Dagda",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Esus",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Sucellus",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Daikokuten",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Hoori",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Ōkuninushi",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Takeminakata",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Nulgupjisin",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Mahākāla",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Attis",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Bassareus",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Cronus",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Demeter",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Hermes",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Philomelus",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Portunus",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Agathodaemon",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Neper",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Osiris",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Shesmu",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Azaka Medeh",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Dan Petro",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Oko",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Dagon",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Ḫapantali",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Kus",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Lahar",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Maris",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Ninurta",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Nisroch",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Sumugan",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Tammuz",
+      "target": "Agriculture"
+    },
+    {
+      "source": "Telipinu",
+      "target": "Agriculture"
+    },
+
+
+
+
+
+    {
+      "source": "Bragi",
+      "target": "Art"
+    },
+    {
+      "source": "Väinämöinen",
+      "target": "Art"
+    },
+    {
+      "source": "Odin",
+      "target": "Art"
+    },
+    {
+      "source": "Brigid",
+      "target": "Art"
+    },
+    {
+      "source": "Abhean",
+      "target": "Art"
+    },
+    {
+      "source": "Gwydion",
+      "target": "Art"
+    },
+    {
+      "source": "Ame-no-Uzume-no-Mikoto",
+      "target": "Art"
+    },
+    {
+      "source": "Benzaiten",
+      "target": "Art"
+    },
+    {
+      "source": "Saraswati",
+      "target": "Art"
+    },
+    {
+      "source": "Pan",
+      "target": "Art"
+    },
+    {
+      "source": "Apollo",
+      "target": "Art"
+    },
+    {
+      "source": "Athena",
+      "target": "Art"
+    },
+    {
+      "source": "Dionysus",
+      "target": "Art"
+    },
+    {
+      "source": "Muses",
+      "target": "Art"
+    },
+    {
+      "source": "Minerva",
+      "target": "Art"
+    },
+    {
+      "source": "Bast",
+      "target": "Art"
+    },
+    {
+      "source": "Bes",
+      "target": "Art"
+    },
+    {
+      "source": "Ptah",
+      "target": "Art"
+    },
+    {
+      "source": "Hathor",
+      "target": "Art"
+    },
+    {
+      "source": "Meret",
+      "target": "Art"
+    },
+    {
+      "source": "Seker",
+      "target": "Art"
+    },
+    {
+      "source": "Isis",
+      "target": "Art"
+    },
+    {
+      "source": "Kothar-wa-Khasis",
+      "target": "Art"
+    },
+    {
+      "source": "Nuska",
+      "target": "Art"
+    },
+    {
+      "source": "Ishtar",
+      "target": "Art"
+    },
+    {
+      "source": "Menrva",
+      "target": "Art"
+    },
+
+
+
+
+
+    {
+      "source": "Midgard Serpent",
+      "target": "Chaos"
+    },
+    {
+      "source": "Nidhogg",
+      "target": "Chaos"
+    },
+    {
+      "source": "Ymir",
+      "target": "Chaos"
+    },
+    {
+      "source": "Amatsumikaboshi",
+      "target": "Chaos"
+    },
+    {
+      "source": "Vritra",
+      "target": "Chaos"
+    },
+    {
+      "source": "Chaos (God)",
+      "target": "Chaos"
+    },
+    {
+      "source": "Hydra",
+      "target": "Chaos"
+    },
+    {
+      "source": "Typhon",
+      "target": "Chaos"
+    },
+    {
+      "source": "Nu",
+      "target": "Chaos"
+    },
+    {
+      "source": "Apep",
+      "target": "Chaos"
+    },
+    {
+      "source": "Set",
+      "target": "Chaos"
+    },
+    {
+      "source": "Angra Mainyi (Ahriman)",
+      "target": "Chaos"
+    },
+    {
+      "source": "Illuyanka",
+      "target": "Chaos"
+    },
+    {
+      "source": "Prince of Darkness",
+      "target": "Chaos"
+    },
+    {
+      "source": "Falak",
+      "target": "Chaos"
+    },
+    {
+      "source": "Leviathan",
+      "target": "Chaos"
+    },
+    {
+      "source": "Surtr",
+      "target": "Chaos"
+    },
+    {
+      "source": "Tannin",
+      "target": "Chaos"
+    },
+    {
+      "source": "Tiamat",
+      "target": "Chaos"
+    },
+
+
+
+
+
+    {
+      "source": "Angelos",
+      "target": "Chthonic"
+    },
+    {
+      "source": "Demeter",
+      "target": "Chthonic"
+    },
+    {
+      "source": "Erinyes",
+      "target": "Chthonic"
+    },
+    {
+      "source": "Gaia",
+      "target": "Chthonic"
+    },
+    {
+      "source": "Hades",
+      "target": "Chthonic"
+    },
+    {
+      "source": "Hecate",
+      "target": "Chthonic"
+    },
+    {
+      "source": "Melinoë",
+      "target": "Chthonic"
+    },
+    {
+      "source": "Persephone",
+      "target": "Chthonic"
+    },
+    {
+      "source": "Triptolemus",
+      "target": "Chthonic"
+    },
+    {
+      "source": "Trophonius",
+      "target": "Chthonic"
+    },
+
+
+
+
+
+    {
+      "source": "Tuoni",
+      "target": "Death"
+    },
+    {
+      "source": "Kalma",
+      "target": "Death"
+    },
+    {
+      "source": "Freyja",
+      "target": "Death"
+    },
+    {
+      "source": "Hel",
+      "target": "Death"
+    },
+    {
+      "source": "Odin",
+      "target": "Death"
+    },
+    {
+      "source": "Rán",
+      "target": "Death"
+    },
+    {
+      "source": "Māra",
+      "target": "Death"
+    },
+    {
+      "source": "Morana",
+      "target": "Death"
+    },
+    {
+      "source": "Veles",
+      "target": "Death"
+    },
+    {
+      "source": "Chernobog",
+      "target": "Death"
+    },
+    {
+      "source": "Ankou",
+      "target": "Death"
+    },
+    {
+      "source": "Arawn",
+      "target": "Death"
+    },
+    {
+      "source": "Crom Cruach",
+      "target": "Death"
+    },
+    {
+      "source": "Donn",
+      "target": "Death"
+    },
+    {
+      "source": "Mannanan",
+      "target": "Death"
+    },
+    {
+      "source": "The Morrigan",
+      "target": "Death"
+    },
+    {
+      "source": "Izanami",
+      "target": "Death"
+    },
+    {
+      "source": "Enma",
+      "target": "Death"
+    },
+    {
+      "source": "Shinigami",
+      "target": "Death"
+    },
+    {
+      "source": "Yama",
+      "target": "Death"
+    },
+    {
+      "source": "Dhumavati",
+      "target": "Death"
+    },
+    {
+      "source": "Acheron",
+      "target": "Death"
+    },
+    {
+      "source": "Alpheus",
+      "target": "Death"
+    },
+    {
+      "source": "Cocytus",
+      "target": "Death"
+    },
+    {
+      "source": "Eridanos",
+      "target": "Death"
+    },
+    {
+      "source": "Lethe",
+      "target": "Death"
+    },
+    {
+      "source": "Phlegethon and Styx",
+      "target": "Death"
+    },
+    {
+      "source": "Charon",
+      "target": "Death"
+    },
+    {
+      "source": "Erebus",
+      "target": "Death"
+    },
+    {
+      "source": "Erinyes",
+      "target": "Death"
+    },
+    {
+      "source": "Hades",
+      "target": "Death"
+    },
+    {
+      "source": "Keres",
+      "target": "Death"
+    },
+    {
+      "source": "Lampades",
+      "target": "Death"
+    },
+    {
+      "source": "Limos",
+      "target": "Death"
+    },
+    {
+      "source": "Macaria",
+      "target": "Death"
+    },
+    {
+      "source": "Persephone",
+      "target": "Death"
+    },
+    {
+      "source": "Tartarus",
+      "target": "Death"
+    },
+    {
+      "source": "Thanatos",
+      "target": "Death"
+    },
+    {
+      "source": "Dea Tacita",
+      "target": "Death"
+    },
+    {
+      "source": "Di inferi",
+      "target": "Death"
+    },
+    {
+      "source": "Dis Pater",
+      "target": "Death"
+    },
+    {
+      "source": "Lemures",
+      "target": "Death"
+    },
+    {
+      "source": "Libitina",
+      "target": "Death"
+    },
+    {
+      "source": "Manes",
+      "target": "Death"
+    },
+    {
+      "source": "Mania",
+      "target": "Death"
+    },
+    {
+      "source": "Mors",
+      "target": "Death"
+    },
+    {
+      "source": "Nenia Dea",
+      "target": "Death"
+    },
+    {
+      "source": "Orcus",
+      "target": "Death"
+    },
+    {
+      "source": "Pluto",
+      "target": "Death"
+    },
+    {
+      "source": "Proserpina",
+      "target": "Death"
+    },
+    {
+      "source": "Soranus",
+      "target": "Death"
+    },
+    {
+      "source": "Viduus",
+      "target": "Death"
+    },
+    {
+      "source": "Aker",
+      "target": "Death"
+    },
+    {
+      "source": "Anubis",
+      "target": "Death"
+    },
+    {
+      "source": "Duamutef Hapi Imset and Qebehsenuef",
+      "target": "Death"
+    },
+    {
+      "source": "Nephthys",
+      "target": "Death"
+    },
+    {
+      "source": "Osiris",
+      "target": "Death"
+    },
+    {
+      "source": "Seker",
+      "target": "Death"
+    },
+    {
+      "source": "Ala",
+      "target": "Death"
+    },
+    {
+      "source": "Mot",
+      "target": "Death"
+    },
+    {
+      "source": "Aita",
+      "target": "Death"
+    },
+    {
+      "source": "Culga",
+      "target": "Death"
+    },
+    {
+      "source": "Februus",
+      "target": "Death"
+    },
+    {
+      "source": "Mantus",
+      "target": "Death"
+    },
+    {
+      "source": "Orcus",
+      "target": "Death"
+    },
+    {
+      "source": "Tuchulcha",
+      "target": "Death"
+    },
+    {
+      "source": "Vanth",
+      "target": "Death"
+    },
+    {
+      "source": "Angra Mainyi (Ahriman)",
+      "target": "Death"
+    },
+    {
+      "source": "Astiwihad",
+      "target": "Death"
+    },
+
+
+
+
+    {
+      "source": "Fjörgyn and Fjörgynn",
+      "target": "Earth"
+    },
+    {
+      "source": "Jörð",
+      "target": "Earth"
+    },
+    {
+      "source": "Nerthus",
+      "target": "Earth"
+    },
+    {
+      "source": "Sif",
+      "target": "Earth"
+    },
+    {
+      "source": "[Triple Goddess]",
+      "target": "Earth"
+    },
+    {
+      "source": "Triglav",
+      "target": "Earth"
+    },
+    {
+      "source": "Veles",
+      "target": "Earth"
+    },
+    {
+      "source": "Māra",
+      "target": "Earth"
+    },
+    {
+      "source": "Žemyna",
+      "target": "Earth"
+    },
+    {
+      "source": "Beira",
+      "target": "Earth"
+    },
+    {
+      "source": "Danu (Celtic)",
+      "target": "Earth"
+    },
+    {
+      "source": "Erecura",
+      "target": "Earth"
+    },
+    {
+      "source": "Litavis",
+      "target": "Earth"
+    },
+    {
+      "source": "Matres and Matronae",
+      "target": "Earth"
+    },
+    {
+      "source": "Nantosuelta",
+      "target": "Earth"
+    },
+    {
+      "source": "Padmavati",
+      "target": "Earth"
+    },
+    {
+      "source": "Diti",
+      "target": "Earth"
+    },
+    {
+      "source": "Ila",
+      "target": "Earth"
+    },
+    {
+      "source": "Phra Mae Thorani",
+      "target": "Earth"
+    },
+    {
+      "source": "Prithvi",
+      "target": "Earth"
+    },
+    {
+      "source": "Poseidon",
+      "target": "Earth"
+    },
+    {
+      "source": "Cybele",
+      "target": "Earth"
+    },
+    {
+      "source": "Gaia",
+      "target": "Earth"
+    },
+    {
+      "source": "Rhea",
+      "target": "Earth"
+    },
+    {
+      "source": "Mother Nature",
+      "target": "Earth"
+    },
+    {
+      "source": "Opis",
+      "target": "Earth"
+    },
+    {
+      "source": "Terra",
+      "target": "Earth"
+    },
+    {
+      "source": "Geb",
+      "target": "Earth"
+    },
+    {
+      "source": "Iussaset",
+      "target": "Earth"
+    },
+    {
+      "source": "Asase Ya",
+      "target": "Earth"
+    },
+    {
+      "source": "Cel",
+      "target": "Earth"
+    },
+    {
+      "source": "Kishar",
+      "target": "Earth"
+    },
+    {
+      "source": "Liluri",
+      "target": "Earth"
+    },
+    {
+      "source": "Ninhursag",
+      "target": "Earth"
+    },
+    {
+      "source": "Spenta Armaiti",
+      "target": "Earth"
+    },
+    {
+      "source": "Urash",
+      "target": "Earth"
+    },
+    {
+      "source": "Yer Tanri",
+      "target": "Earth"
+    },
+
+
+
+
+
+    {
+      "source": "Norns",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Sumarr",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Vetr",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Wyrd",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Mahākāla",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Kala",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Kali",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Shiva",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Aion",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Ananke",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Chronos",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Heimarmene",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Horae",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Kairos",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Moirai",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Moros",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Aeternitas",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Anna Perenna",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Antevorta",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Janus",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Parcae",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Postverta",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Vertumnus",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Huh",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Hemsut",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Shai",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Ikenga",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Ori",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Laima/Dalia",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Nortia",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Anunnaki",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Nabu",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Istustaya and Papaya",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Mamitu",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Manāt",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Manu the Great",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Namtar",
+      "target": "Fate/Time"
+    },
+    {
+      "source": "Zurvan",
+      "target": "Fate/Time"
+    },
+
+
+
+
+
+    {
+      "source": "Äkräs",
+      "target": "Fertility"
+    },
+    {
+      "source": "Rauni",
+      "target": "Fertility"
+    },
+    {
+      "source": "Metsik",
+      "target": "Fertility"
+    },
+    {
+      "source": "Zarni-Ań",
+      "target": "Fertility"
+    },
+    {
+      "source": "Ēostre",
+      "target": "Fertility"
+    },
+    {
+      "source": "Freyr",
+      "target": "Fertility"
+    },
+    {
+      "source": "Freyja",
+      "target": "Fertility"
+    },
+    {
+      "source": "Frigg",
+      "target": "Fertility"
+    },
+    {
+      "source": "Gefjun",
+      "target": "Fertility"
+    },
+    {
+      "source": "Nerthus",
+      "target": "Fertility"
+    },
+    {
+      "source": "Njordr",
+      "target": "Fertility"
+    },
+    {
+      "source": "Thor",
+      "target": "Fertility"
+    },
+    {
+      "source": "Dzydzilelya",
+      "target": "Fertility"
+    },
+    {
+      "source": "Jarylo",
+      "target": "Fertility"
+    },
+    {
+      "source": "Kostroma",
+      "target": "Fertility"
+    },
+    {
+      "source": "Siebog",
+      "target": "Fertility"
+    },
+    {
+      "source": "Svetovid",
+      "target": "Fertility"
+    },
+    {
+      "source": "Zeme",
+      "target": "Fertility"
+    },
+    {
+      "source": "Živa",
+      "target": "Fertility"
+    },
+    {
+      "source": "Brigid",
+      "target": "Fertility"
+    },
+    {
+      "source": "Cernunnos",
+      "target": "Fertility"
+    },
+    {
+      "source": "Damara",
+      "target": "Fertility"
+    },
+    {
+      "source": "Damona",
+      "target": "Fertility"
+    },
+    {
+      "source": "Epona",
+      "target": "Fertility"
+    },
+    {
+      "source": "[Hooded Spirits]",
+      "target": "Fertility"
+    },
+    {
+      "source": "Nantosuelta",
+      "target": "Fertility"
+    },
+    {
+      "source": "Onuava",
+      "target": "Fertility"
+    },
+    {
+      "source": "Rosmerta",
+      "target": "Fertility"
+    },
+    {
+      "source": "Dagda",
+      "target": "Fertility"
+    },
+    {
+      "source": "Kichijōten",
+      "target": "Fertility"
+    },
+    {
+      "source": "Kuebiko",
+      "target": "Fertility"
+    },
+    {
+      "source": "Inari Ōkami",
+      "target": "Fertility"
+    },
+    {
+      "source": "Shinda",
+      "target": "Fertility"
+    },
+    {
+      "source": "Banka-Mundi",
+      "target": "Fertility"
+    },
+    {
+      "source": "Prithvi",
+      "target": "Fertility"
+    },
+    {
+      "source": "Gayatri",
+      "target": "Fertility"
+    },
+    {
+      "source": "Chandra",
+      "target": "Fertility"
+    },
+    {
+      "source": "Parvati",
+      "target": "Fertility"
+    },
+    {
+      "source": "Shakti",
+      "target": "Fertility"
+    },
+    {
+      "source": "Aphaea",
+      "target": "Fertility"
+    },
+    {
+      "source": "Dionysus",
+      "target": "Fertility"
+    },
+    {
+      "source": "Hera",
+      "target": "Fertility"
+    },
+    {
+      "source": "Illithyia",
+      "target": "Fertility"
+    },
+    {
+      "source": "Pan",
+      "target": "Fertility"
+    },
+    {
+      "source": "Phanes",
+      "target": "Fertility"
+    },
+    {
+      "source": "Priapus",
+      "target": "Fertility"
+    },
+    {
+      "source": "Tychon",
+      "target": "Fertility"
+    },
+    {
+      "source": "Persephone",
+      "target": "Fertility"
+    },
+    {
+      "source": "Bacchus",
+      "target": "Fertility"
+    },
+    {
+      "source": "Bona Dea",
+      "target": "Fertility"
+    },
+    {
+      "source": "Candelifera",
+      "target": "Fertility"
+    },
+    {
+      "source": "Carmenta",
+      "target": "Fertility"
+    },
+    {
+      "source": "Fascinus",
+      "target": "Fertility"
+    },
+    {
+      "source": "Fecunditas",
+      "target": "Fertility"
+    },
+    {
+      "source": "Feronia",
+      "target": "Fertility"
+    },
+    {
+      "source": "Inuus",
+      "target": "Fertility"
+    },
+    {
+      "source": "Juno",
+      "target": "Fertility"
+    },
+    {
+      "source": "Liber",
+      "target": "Fertility"
+    },
+    {
+      "source": "Libera",
+      "target": "Fertility"
+    },
+    {
+      "source": "Mutunus Tutunus",
+      "target": "Fertility"
+    },
+    {
+      "source": "Picumnus",
+      "target": "Fertility"
+    },
+    {
+      "source": "Robigus",
+      "target": "Fertility"
+    },
+    {
+      "source": "Amun",
+      "target": "Fertility"
+    },
+    {
+      "source": "Bast",
+      "target": "Fertility"
+    },
+    {
+      "source": "Heqet",
+      "target": "Fertility"
+    },
+    {
+      "source": "Heryshaf",
+      "target": "Fertility"
+    },
+    {
+      "source": "Isis",
+      "target": "Fertility"
+    },
+    {
+      "source": "Mesenet",
+      "target": "Fertility"
+    },
+    {
+      "source": "Min",
+      "target": "Fertility"
+    },
+    {
+      "source": "Osiris",
+      "target": "Fertility"
+    },
+    {
+      "source": "Renenutet",
+      "target": "Fertility"
+    },
+    {
+      "source": "Sobek",
+      "target": "Fertility"
+    },
+    {
+      "source": "Sopdet",
+      "target": "Fertility"
+    },
+    {
+      "source": "Tawaret",
+      "target": "Fertility"
+    },
+    {
+      "source": "Tefnut",
+      "target": "Fertility"
+    },
+    {
+      "source": "Ala",
+      "target": "Fertility"
+    },
+    {
+      "source": "Asase Ya",
+      "target": "Fertility"
+    },
+    {
+      "source": "Oshun",
+      "target": "Fertility"
+    },
+    {
+      "source": "Eshu",
+      "target": "Fertility"
+    },
+    {
+      "source": "Oya",
+      "target": "Fertility"
+    },
+    {
+      "source": "Anahit",
+      "target": "Fertility"
+    },
+    {
+      "source": "Aramazd",
+      "target": "Fertility"
+    },
+    {
+      "source": "Astoreth",
+      "target": "Fertility"
+    },
+    {
+      "source": "Hadad",
+      "target": "Fertility"
+    },
+    {
+      "source": "Nikkal",
+      "target": "Fertility"
+    },
+    {
+      "source": "Tanit",
+      "target": "Fertility"
+    },
+    {
+      "source": "Shaushka",
+      "target": "Fertility"
+    },
+    {
+      "source": "Anahita",
+      "target": "Fertility"
+    },
+    {
+      "source": "Sandaramet",
+      "target": "Fertility"
+    },
+    {
+      "source": "Ashi",
+      "target": "Fertility"
+    },
+    {
+      "source": "Ama-arhus",
+      "target": "Fertility"
+    },
+    {
+      "source": "Amasagnul",
+      "target": "Fertility"
+    },
+    {
+      "source": "Dumuzid",
+      "target": "Fertility"
+    },
+    {
+      "source": "Nanshe",
+      "target": "Fertility"
+    },
+    {
+      "source": "Sharra Itu",
+      "target": "Fertility"
+    },
+    {
+      "source": "Inanna",
+      "target": "Fertility"
+    },
+    {
+      "source": "Laima",
+      "target": "Fertility"
+    },
+    {
+      "source": "Thesan",
+      "target": "Fertility"
+    },
+    {
+      "source": "Turan",
+      "target": "Fertility"
+    },
+
+
+
+
+
+    {
+      "source": "Glöð",
+      "target": "Fire"
+    },
+    {
+      "source": "Logi",
+      "target": "Fire"
+    },
+    {
+      "source": "Dimstipatis",
+      "target": "Fire"
+    },
+    {
+      "source": "Jagaubis",
+      "target": "Fire"
+    },
+    {
+      "source": "Dažbog",
+      "target": "Fire"
+    },
+    {
+      "source": "Kresnik",
+      "target": "Fire"
+    },
+    {
+      "source": "Peklenc",
+      "target": "Fire"
+    },
+    {
+      "source": "Svarog",
+      "target": "Fire"
+    },
+    {
+      "source": "Brigid",
+      "target": "Fire"
+    },
+    {
+      "source": "Aed",
+      "target": "Fire"
+    },
+    {
+      "source": "Grannus",
+      "target": "Fire"
+    },
+    {
+      "source": "Nantosuelta",
+      "target": "Fire"
+    },
+    {
+      "source": "Amaterasu-Ōmikami",
+      "target": "Fire"
+    },
+    {
+      "source": "Kagu-tsuchi",
+      "target": "Fire"
+    },
+    {
+      "source": "Kōjin",
+      "target": "Fire"
+    },
+    {
+      "source": "Fūjin",
+      "target": "Fire"
+    },
+    {
+      "source": "Konohanasakuya-hime",
+      "target": "Fire"
+    },
+    {
+      "source": "Jowangsin",
+      "target": "Fire"
+    },
+    {
+      "source": "Agni",
+      "target": "Fire"
+    },
+    {
+      "source": "Hephaestus",
+      "target": "Fire"
+    },
+    {
+      "source": "Hestia",
+      "target": "Fire"
+    },
+    {
+      "source": "Helios",
+      "target": "Fire"
+    },
+    {
+      "source": "Caca",
+      "target": "Fire"
+    },
+    {
+      "source": "Cacus",
+      "target": "Fire"
+    },
+    {
+      "source": "Fornax",
+      "target": "Fire"
+    },
+    {
+      "source": "Stata Mater",
+      "target": "Fire"
+    },
+    {
+      "source": "Vesta",
+      "target": "Fire"
+    },
+    {
+      "source": "Vulcan",
+      "target": "Fire"
+    },
+    {
+      "source": "Adranus",
+      "target": "Fire"
+    },
+    {
+      "source": "Ra",
+      "target": "Fire"
+    },
+    {
+      "source": "Sekhmet",
+      "target": "Fire"
+    },
+    {
+      "source": "Wadjet",
+      "target": "Fire"
+    },
+    {
+      "source": "Ogoun",
+      "target": "Fire"
+    },
+    {
+      "source": "Oya",
+      "target": "Fire"
+    },
+    {
+      "source": "Shango",
+      "target": "Fire"
+    },
+    {
+      "source": "Alaz",
+      "target": "Fire"
+    },
+    {
+      "source": "Sethlans",
+      "target": "Fire"
+    },
+    {
+      "source": "Shapash",
+      "target": "Fire"
+    },
+    {
+      "source": "Gerra",
+      "target": "Fire"
+    },
+    {
+      "source": "Ishum",
+      "target": "Fire"
+    },
+    {
+      "source": "Nuska",
+      "target": "Fire"
+    },
+
+
+
+
+
+    {
+      "source": "Eir",
+      "target": "Health"
+    },
+    {
+      "source": "Żywie",
+      "target": "Health"
+    },
+    {
+      "source": "Airmed",
+      "target": "Health"
+    },
+    {
+      "source": "Alaunus",
+      "target": "Health"
+    },
+    {
+      "source": "Atepomarus",
+      "target": "Health"
+    },
+    {
+      "source": "Brigid",
+      "target": "Health"
+    },
+    {
+      "source": "Dian Cecht",
+      "target": "Health"
+    },
+    {
+      "source": "[Hooded Spirits]",
+      "target": "Health"
+    },
+    {
+      "source": "Ianuaria",
+      "target": "Health"
+    },
+    {
+      "source": "Maponos",
+      "target": "Health"
+    },
+    {
+      "source": "Apollo",
+      "target": "Health"
+    },
+    {
+      "source": "Artemis",
+      "target": "Health"
+    },
+    {
+      "source": "Asclepius",
+      "target": "Health"
+    },
+    {
+      "source": "Chiron",
+      "target": "Health"
+    },
+    {
+      "source": "Eileithyia",
+      "target": "Health"
+    },
+    {
+      "source": "Hera",
+      "target": "Health"
+    },
+    {
+      "source": "Hygieia",
+      "target": "Health"
+    },
+    {
+      "source": "Iaso",
+      "target": "Health"
+    },
+    {
+      "source": "Paean",
+      "target": "Health"
+    },
+    {
+      "source": "Panacea",
+      "target": "Health"
+    },
+    {
+      "source": "Angitia",
+      "target": "Health"
+    },
+    {
+      "source": "Apollo",
+      "target": "Health"
+    },
+    {
+      "source": "Bona Dea",
+      "target": "Health"
+    },
+    {
+      "source": "Cardea",
+      "target": "Health"
+    },
+    {
+      "source": "Carna",
+      "target": "Health"
+    },
+    {
+      "source": "Endovelicus",
+      "target": "Health"
+    },
+    {
+      "source": "Febris",
+      "target": "Health"
+    },
+    {
+      "source": "Feronia",
+      "target": "Health"
+    },
+    {
+      "source": "Valetudo",
+      "target": "Health"
+    },
+    {
+      "source": "Vejovis",
+      "target": "Health"
+    },
+    {
+      "source": "Verminus",
+      "target": "Health"
+    },
+    {
+      "source": "Sekhmet",
+      "target": "Health"
+    },
+    {
+      "source": "Heka",
+      "target": "Health"
+    },
+    {
+      "source": "Serket",
+      "target": "Health"
+    },
+    {
+      "source": "Ta-Bitjet",
+      "target": "Health"
+    },
+    {
+      "source": "Isis",
+      "target": "Health"
+    },
+    {
+      "source": "Agwu",
+      "target": "Health"
+    },
+    {
+      "source": "Jengu",
+      "target": "Health"
+    },
+    {
+      "source": "!Xu",
+      "target": "Health"
+    },
+    {
+      "source": "Osanyin",
+      "target": "Health"
+    },
+    {
+      "source": "Aja",
+      "target": "Health"
+    },
+    {
+      "source": "Anahit",
+      "target": "Health"
+    },
+    {
+      "source": "Aramazd",
+      "target": "Health"
+    },
+    {
+      "source": "Astoreth",
+      "target": "Health"
+    },
+    {
+      "source": "Hadad",
+      "target": "Health"
+    },
+    {
+      "source": "Nikkal",
+      "target": "Health"
+    },
+    {
+      "source": "Tanit",
+      "target": "Health"
+    },
+    {
+      "source": "Shaushka",
+      "target": "Health"
+    },
+    {
+      "source": "Anahita",
+      "target": "Health"
+    },
+    {
+      "source": "Sandaramet",
+      "target": "Health"
+    },
+    {
+      "source": "Ashi",
+      "target": "Health"
+    },
+    {
+      "source": "Ama-arhus",
+      "target": "Health"
+    },
+    {
+      "source": "Amasagnul",
+      "target": "Health"
+    },
+    {
+      "source": "Dumuzid",
+      "target": "Health"
+    },
+    {
+      "source": "Nanshe",
+      "target": "Health"
+    },
+    {
+      "source": "Sharra Itu",
+      "target": "Health"
+    },
+    {
+      "source": "Inanna",
+      "target": "Health"
+    },
+    {
+      "source": "Laima",
+      "target": "Health"
+    },
+    {
+      "source": "Thesan",
+      "target": "Health"
+    },
+    {
+      "source": "Turan",
+      "target": "Health"
+    },
+    {
+      "source": "Menrva",
+      "target": "Health"
+    },
+    {
+      "source": "Kamrušepa",
+      "target": "Health"
+    },
+    {
+      "source": "Anahita",
+      "target": "Health"
+    },
+    {
+      "source": "Namtar",
+      "target": "Health"
+    },
+    {
+      "source": "Ninazu",
+      "target": "Health"
+    },
+    {
+      "source": "Ningishzida",
+      "target": "Health"
+    },
+    {
+      "source": "Ninurta",
+      "target": "Health"
+    },
+    {
+      "source": "Haoma",
+      "target": "Health"
+    },
+    {
+      "source": "Derzelas",
+      "target": "Health"
+    },
+
+
+
+
+
+    {
+      "source": "Odin",
+      "target": "Hunting"
+    },
+    {
+      "source": "Mielikki",
+      "target": "Hunting"
+    },
+    {
+      "source": "Nyyrikki",
+      "target": "Hunting"
+    },
+    {
+      "source": "Tapio",
+      "target": "Hunting"
+    },
+    {
+      "source": "Skaði",
+      "target": "Hunting"
+    },
+    {
+      "source": "Ullr",
+      "target": "Hunting"
+    },
+    {
+      "source": "Devana",
+      "target": "Hunting"
+    },
+    {
+      "source": "Ipabog",
+      "target": "Hunting"
+    },
+    {
+      "source": "Podaga",
+      "target": "Hunting"
+    },
+    {
+      "source": "Cernunnos",
+      "target": "Hunting"
+    },
+    {
+      "source": "Nodens",
+      "target": "Hunting"
+    },
+    {
+      "source": "Flidais",
+      "target": "Hunting"
+    },
+    {
+      "source": "Arawn",
+      "target": "Hunting"
+    },
+    {
+      "source": "Gwyn ap Nudd",
+      "target": "Hunting"
+    },
+    {
+      "source": "Banka-Mundi",
+      "target": "Hunting"
+    },
+    {
+      "source": "Aristaeus",
+      "target": "Hunting"
+    },
+    {
+      "source": "Artemis",
+      "target": "Hunting"
+    },
+    {
+      "source": "Pan",
+      "target": "Hunting"
+    },
+    {
+      "source": "Diana",
+      "target": "Hunting"
+    },
+    {
+      "source": "Neith",
+      "target": "Hunting"
+    },
+    {
+      "source": "Pakhet",
+      "target": "Hunting"
+    },
+    {
+      "source": "Wepwawet",
+      "target": "Hunting"
+    },
+    {
+      "source": "Ogoun",
+      "target": "Hunting"
+    },
+    {
+      "source": "Apsat",
+      "target": "Hunting"
+    },
+    {
+      "source": "Dali",
+      "target": "Hunting"
+    },
+    {
+      "source": "Rundas",
+      "target": "Hunting"
+    },
+    {
+      "source": "Bendis",
+      "target": "Hunting"
+    },
+
+
+
+
+
+    {
+      "source": "Ukko",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Odin",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Perun",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Dagda",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Amenominakanushi",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Izanagi",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Amaterasu-Ōmikami",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Dangun",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Dyauspitar",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Indra",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Brahma",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Shiva",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Vishnu",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Uranus",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Cronus",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Zeus",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Osiris",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Set",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Sutekh",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Horus",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Ra",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Amun",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Olorun",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Enlil",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Anu",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Marduk",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Ba'al",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "El",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Teshub",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Kumarbi",
+      "target": "King of the Gods"
+    },
+    {
+      "source": "Arinna",
+      "target": "King of the Gods"
+    },
+
+
+
+
+
+    {
+      "source": "Odin",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Frigg",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Gefjun",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Sága",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Snotra",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Vör",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Ogma",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Benzaiten",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Fukurokuju",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Kuebiko",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Omoikana",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Tenjin",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Saraswati",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Savitri",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Dakshinamirthy",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Athena",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Coeus",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Metis",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Minerva",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Providentia",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Neith",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Isis",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Thoth",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Sia",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Seshat",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Anansi",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Orunmila",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Anahit",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Tir",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Menrva",
+      "target": "Knowledge"
+    },
+    {
+      "source": "A'as",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Kamrušepa",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Enki",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Nidaba",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Ahura Mazda",
+      "target": "Knowledge"
+    },
+    {
+      "source": "Chista",
+      "target": "Knowledge"
+    },
+
+
+
+
+
+    {
+      "source": "Forseti",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Týr",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Syn",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Vár",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Rod",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Shiva",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Zeus",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Adrasteia",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Astraea",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Athena",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Dike",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Eirene",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Horae",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Nemesis",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Themis",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Honos",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Jupiter",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Shesmu",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Ammit",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Maat",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Anbay",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Enlil",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Haukim",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Mandanu",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Marduk",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Nahudni",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Ninsusinak",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Sydyk",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Utu",
+      "target": "Law/Justice"
+    },
+    {
+      "source": "Inanna",
+      "target": "Law/Justice"
+    },
+
+
+
+
+
+    {
+      "source": "Baldr",
+      "target": "Light"
+    },
+    {
+      "source": "Dagr",
+      "target": "Light"
+    },
+    {
+      "source": "Ēostre",
+      "target": "Light"
+    },
+    {
+      "source": "Freyr",
+      "target": "Light"
+    },
+    {
+      "source": "Teiwaz",
+      "target": "Light"
+    },
+    {
+      "source": "Ushas",
+      "target": "Light"
+    },
+    {
+      "source": "Aether",
+      "target": "Light"
+    },
+    {
+      "source": "Apollo",
+      "target": "Light"
+    },
+    {
+      "source": "Eos",
+      "target": "Light"
+    },
+    {
+      "source": "Hemera",
+      "target": "Light"
+    },
+    {
+      "source": "Hyperion",
+      "target": "Light"
+    },
+    {
+      "source": "Theia",
+      "target": "Light"
+    },
+    {
+      "source": "Zeus",
+      "target": "Light"
+    },
+    {
+      "source": "Aurora",
+      "target": "Light"
+    },
+    {
+      "source": "Jupiter",
+      "target": "Light"
+    },
+    {
+      "source": "Horus",
+      "target": "Light"
+    },
+    {
+      "source": "Khepri",
+      "target": "Light"
+    },
+    {
+      "source": "Nefertem",
+      "target": "Light"
+    },
+    {
+      "source": "Albina",
+      "target": "Light"
+    },
+    {
+      "source": "Thesan",
+      "target": "Light"
+    },
+
+
+
+
+
+    {
+      "source": "Odin",
+      "target": "Liminal"
+    },
+    {
+      "source": "Frigg",
+      "target": "Liminal"
+    },
+    {
+      "source": "Gefjun",
+      "target": "Liminal"
+    },
+    {
+      "source": "Sága",
+      "target": "Liminal"
+    },
+    {
+      "source": "Snotra",
+      "target": "Liminal"
+    },
+    {
+      "source": "Vör",
+      "target": "Liminal"
+    },
+    {
+      "source": "Izanagi",
+      "target": "Liminal"
+    },
+    {
+      "source": "Izanami",
+      "target": "Liminal"
+    },
+    {
+      "source": "Jangseung",
+      "target": "Liminal"
+    },
+    {
+      "source": "Munshin",
+      "target": "Liminal"
+    },
+    {
+      "source": "Agni",
+      "target": "Liminal"
+    },
+    {
+      "source": "Ganesha",
+      "target": "Liminal"
+    },
+    {
+      "source": "Hecate",
+      "target": "Liminal"
+    },
+    {
+      "source": "Hermes",
+      "target": "Liminal"
+    },
+    {
+      "source": "Iris",
+      "target": "Liminal"
+    },
+    {
+      "source": "Persephone",
+      "target": "Liminal"
+    },
+    {
+      "source": "Bacchus",
+      "target": "Liminal"
+    },
+    {
+      "source": "Cardea",
+      "target": "Liminal"
+    },
+    {
+      "source": "Janus",
+      "target": "Liminal"
+    },
+    {
+      "source": "Mercury",
+      "target": "Liminal"
+    },
+    {
+      "source": "Portunus",
+      "target": "Liminal"
+    },
+    {
+      "source": "Proserpina",
+      "target": "Liminal"
+    },
+    {
+      "source": "Terminus",
+      "target": "Liminal"
+    },
+    {
+      "source": "Trivia",
+      "target": "Liminal"
+    },
+    {
+      "source": "Osiris",
+      "target": "Liminal"
+    },
+    {
+      "source": "Legba",
+      "target": "Liminal"
+    },
+    {
+      "source": "Tammuz",
+      "target": "Liminal"
+    },
+    {
+      "source": "Ishtar",
+      "target": "Liminal"
+    },
+
+
+
+
+
+    {
+      "source": "Vesunna",
+      "target": "Luck"
+    },
+    {
+      "source": "Benzaiten",
+      "target": "Luck"
+    },
+    {
+      "source": "Daikokuten",
+      "target": "Luck"
+    },
+    {
+      "source": "Ebisu",
+      "target": "Luck"
+    },
+    {
+      "source": "Fukurokuju",
+      "target": "Luck"
+    },
+    {
+      "source": "Ashta Lakshmi",
+      "target": "Luck"
+    },
+    {
+      "source": "Jyestha",
+      "target": "Luck"
+    },
+    {
+      "source": "Ganesha",
+      "target": "Luck"
+    },
+    {
+      "source": "Krishna",
+      "target": "Luck"
+    },
+    {
+      "source": "Kubera",
+      "target": "Luck"
+    },
+    {
+      "source": "Mahākāla",
+      "target": "Luck"
+    },
+    {
+      "source": "Tyche",
+      "target": "Luck"
+    },
+    {
+      "source": "Agathodaemon",
+      "target": "Luck"
+    },
+    {
+      "source": "Caerus",
+      "target": "Luck"
+    },
+    {
+      "source": "Plutus",
+      "target": "Luck"
+    },
+    {
+      "source": "Abundantia",
+      "target": "Luck"
+    },
+    {
+      "source": "Felicitas",
+      "target": "Luck"
+    },
+    {
+      "source": "Fortuna",
+      "target": "Luck"
+    },
+    {
+      "source": "Averruncus",
+      "target": "Luck"
+    },
+    {
+      "source": "Sors",
+      "target": "Luck"
+    },
+    {
+      "source": "Bes",
+      "target": "Luck"
+    },
+    {
+      "source": "Ikenga",
+      "target": "Luck"
+    },
+    {
+      "source": "Nortia",
+      "target": "Luck"
+    },
+    {
+      "source": "Rundas",
+      "target": "Luck"
+    },
+    {
+      "source": "Sa'd",
+      "target": "Luck"
+    },
+
+
+
+
+
+    {
+      "source": "Ēostre",
+      "target": "Lust"
+    },
+    {
+      "source": "Freyja",
+      "target": "Lust"
+    },
+    {
+      "source": "Freyr",
+      "target": "Lust"
+    },
+    {
+      "source": "Frigg",
+      "target": "Lust"
+    },
+    {
+      "source": "Lofn",
+      "target": "Lust"
+    },
+    {
+      "source": "Sjöfn",
+      "target": "Lust"
+    },
+    {
+      "source": "Dogoda",
+      "target": "Lust"
+    },
+    {
+      "source": "Dzydzilelya",
+      "target": "Lust"
+    },
+    {
+      "source": "Siebog",
+      "target": "Lust"
+    },
+    {
+      "source": "Živa",
+      "target": "Lust"
+    },
+    {
+      "source": "Lada",
+      "target": "Lust"
+    },
+    {
+      "source": "Áine",
+      "target": "Lust"
+    },
+    {
+      "source": "Cliodhna",
+      "target": "Lust"
+    },
+    {
+      "source": "Rāgarāja",
+      "target": "Lust"
+    },
+    {
+      "source": "Kama",
+      "target": "Lust"
+    },
+    {
+      "source": "Rati",
+      "target": "Lust"
+    },
+    {
+      "source": "Ushas",
+      "target": "Lust"
+    },
+    {
+      "source": "Hedone",
+      "target": "Lust"
+    },
+    {
+      "source": "Aphrodite",
+      "target": "Lust"
+    },
+    {
+      "source": "Eos",
+      "target": "Lust"
+    },
+    {
+      "source": "The Erotes",
+      "target": "Lust"
+    },
+    {
+      "source": "Pan",
+      "target": "Lust"
+    },
+    {
+      "source": "Peitho",
+      "target": "Lust"
+    },
+    {
+      "source": "Philotes",
+      "target": "Lust"
+    },
+    {
+      "source": "Priapus",
+      "target": "Lust"
+    },
+    {
+      "source": "Voluptas",
+      "target": "Lust"
+    },
+    {
+      "source": "Aurora",
+      "target": "Lust"
+    },
+    {
+      "source": "Cupid",
+      "target": "Lust"
+    },
+    {
+      "source": "Suadela",
+      "target": "Lust"
+    },
+    {
+      "source": "Venus",
+      "target": "Lust"
+    },
+    {
+      "source": "Bast",
+      "target": "Lust"
+    },
+    {
+      "source": "Bes",
+      "target": "Lust"
+    },
+    {
+      "source": "Hathor",
+      "target": "Lust"
+    },
+    {
+      "source": "Min",
+      "target": "Lust"
+    },
+    {
+      "source": "Qetesh",
+      "target": "Lust"
+    },
+    {
+      "source": "Baron Samedi",
+      "target": "Lust"
+    },
+    {
+      "source": "Oshun",
+      "target": "Lust"
+    },
+    {
+      "source": "Astarte",
+      "target": "Lust"
+    },
+    {
+      "source": "Albina",
+      "target": "Lust"
+    },
+    {
+      "source": "Turan",
+      "target": "Lust"
+    },
+    {
+      "source": "Milda",
+      "target": "Lust"
+    },
+    {
+      "source": "Ishtar",
+      "target": "Lust"
+    },
+    {
+      "source": "Nanaya",
+      "target": "Lust"
+    },
+
+
+
+
+
+    {
+      "source": "Freyja",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "[Triple Goddess]",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Odin",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Veles",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Väinämöinen",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Áine",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Ceridwen",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Gwydion",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Diana",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Circe",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Hecate",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Melinoë",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Hermes",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Isis",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Heka",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Thoth",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Ereshkigal",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Kamrušepa",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Enki",
+      "target": "Magic/Prophecy"
+    },
+    {
+      "source": "Marduk",
+      "target": "Magic/Prophecy"
+    },
+
+
+
+
+
+    {
+      "source": "Kuu",
+      "target": "Moon"
+    },
+    {
+      "source": "Máni",
+      "target": "Moon"
+    },
+    {
+      "source": "[Triple Goddess]",
+      "target": "Moon"
+    },
+    {
+      "source": "Hors",
+      "target": "Moon"
+    },
+    {
+      "source": "Arianrhod",
+      "target": "Moon"
+    },
+    {
+      "source": "Elatha",
+      "target": "Moon"
+    },
+    {
+      "source": "Tuskuyomi",
+      "target": "Moon"
+    },
+    {
+      "source": "Myeongwol",
+      "target": "Moon"
+    },
+    {
+      "source": "Chandra",
+      "target": "Moon"
+    },
+    {
+      "source": "Artemis",
+      "target": "Moon"
+    },
+    {
+      "source": "Hecate",
+      "target": "Moon"
+    },
+    {
+      "source": "Phoebe",
+      "target": "Moon"
+    },
+    {
+      "source": "Selene",
+      "target": "Moon"
+    },
+    {
+      "source": "Diana",
+      "target": "Moon"
+    },
+    {
+      "source": "Luna",
+      "target": "Moon"
+    },
+    {
+      "source": "Bendis",
+      "target": "Moon"
+    },
+    {
+      "source": "Losna",
+      "target": "Moon"
+    },
+    {
+      "source": "Ba'al",
+      "target": "Moon"
+    },
+    {
+      "source": "Sin",
+      "target": "Moon"
+    },
+    {
+      "source": "Ta'lab",
+      "target": "Moon"
+    },
+    {
+      "source": "Wadd",
+      "target": "Moon"
+    },
+    {
+      "source": "Yarikh",
+      "target": "Moon"
+    },
+    {
+      "source": "Ay Ata",
+      "target": "Moon"
+    },
+
+
+
+
+
+    {
+      "source": "Perun",
+      "target": "Nations"
+    },
+    {
+      "source": "Lugh",
+      "target": "Nations"
+    },
+    {
+      "source": "Amaterasu-Ōmikami",
+      "target": "Nations"
+    },
+    {
+      "source": "Amun",
+      "target": "Nations"
+    },
+    {
+      "source": "Amun-Ra",
+      "target": "Nations"
+    },
+    {
+      "source": "Horus",
+      "target": "Nations"
+    },
+    {
+      "source": "Ba'al",
+      "target": "Nations"
+    },
+    {
+      "source": "Marduk",
+      "target": "Nations"
+    },
+
+
+
+
+
+    {
+      "source": "Lempo",
+      "target": "Nature"
+    },
+    {
+      "source": "Tapio",
+      "target": "Nature"
+    },
+    {
+      "source": "Mielikki",
+      "target": "Nature"
+    },
+    {
+      "source": "Ēostre",
+      "target": "Nature"
+    },
+    {
+      "source": "Nerthus",
+      "target": "Nature"
+    },
+    {
+      "source": "Jörð",
+      "target": "Nature"
+    },
+    {
+      "source": "Iðunn",
+      "target": "Nature"
+    },
+    {
+      "source": "Fjörgyn and Fjörgynn",
+      "target": "Nature"
+    },
+    {
+      "source": "Freyja",
+      "target": "Nature"
+    },
+    {
+      "source": "Freyr",
+      "target": "Nature"
+    },
+    {
+      "source": "Skaði",
+      "target": "Nature"
+    },
+    {
+      "source": "Sif",
+      "target": "Nature"
+    },
+    {
+      "source": "Thor",
+      "target": "Nature"
+    },
+    {
+      "source": "Medeina",
+      "target": "Nature"
+    },
+    {
+      "source": "Zeme",
+      "target": "Nature"
+    },
+    {
+      "source": "Berstuk",
+      "target": "Nature"
+    },
+    {
+      "source": "Jarylo",
+      "target": "Nature"
+    },
+    {
+      "source": "Leshy",
+      "target": "Nature"
+    },
+    {
+      "source": "Veles",
+      "target": "Nature"
+    },
+    {
+      "source": "Mokosh",
+      "target": "Nature"
+    },
+    {
+      "source": "Abnoba",
+      "target": "Nature"
+    },
+    {
+      "source": "Artio",
+      "target": "Nature"
+    },
+    {
+      "source": "Arduinna",
+      "target": "Nature"
+    },
+    {
+      "source": "Cernunnos",
+      "target": "Nature"
+    },
+    {
+      "source": "Nantosuelta",
+      "target": "Nature"
+    },
+    {
+      "source": "Sucellus",
+      "target": "Nature"
+    },
+    {
+      "source": "Viridios",
+      "target": "Nature"
+    },
+    {
+      "source": "Amaterasu-Ōmikami",
+      "target": "Nature"
+    },
+    {
+      "source": "Izanagi",
+      "target": "Nature"
+    },
+    {
+      "source": "Izanami",
+      "target": "Nature"
+    },
+    {
+      "source": "Konohanasakuya-hime",
+      "target": "Nature"
+    },
+    {
+      "source": "Shinigami",
+      "target": "Nature"
+    },
+    {
+      "source": "Suijin",
+      "target": "Nature"
+    },
+    {
+      "source": "Fūjin",
+      "target": "Nature"
+    },
+    {
+      "source": "Kagu-tsuchi",
+      "target": "Nature"
+    },
+    {
+      "source": "Dangun",
+      "target": "Nature"
+    },
+    {
+      "source": "Lady Saso",
+      "target": "Nature"
+    },
+    {
+      "source": "Jacheongbi",
+      "target": "Nature"
+    },
+    {
+      "source": "Jik",
+      "target": "Nature"
+    },
+    {
+      "source": "Sa",
+      "target": "Nature"
+    },
+    {
+      "source": "Trimurti",
+      "target": "Nature"
+    },
+    {
+      "source": "Prithvi",
+      "target": "Nature"
+    },
+    {
+      "source": "Agni",
+      "target": "Nature"
+    },
+    {
+      "source": "Varuna",
+      "target": "Nature"
+    },
+    {
+      "source": "Vayu",
+      "target": "Nature"
+    },
+    {
+      "source": "Indra",
+      "target": "Nature"
+    },
+    {
+      "source": "Yamaraja",
+      "target": "Nature"
+    },
+    {
+      "source": "Athena",
+      "target": "Nature"
+    },
+    {
+      "source": "Apollo",
+      "target": "Nature"
+    },
+    {
+      "source": "Aristaeus",
+      "target": "Nature"
+    },
+    {
+      "source": "Artemis",
+      "target": "Nature"
+    },
+    {
+      "source": "Chloris",
+      "target": "Nature"
+    },
+    {
+      "source": "Cronus",
+      "target": "Nature"
+    },
+    {
+      "source": "Cybele",
+      "target": "Nature"
+    },
+    {
+      "source": "Demeter",
+      "target": "Nature"
+    },
+    {
+      "source": "Dionysus",
+      "target": "Nature"
+    },
+    {
+      "source": "Gaia",
+      "target": "Nature"
+    },
+    {
+      "source": "Hegemone",
+      "target": "Nature"
+    },
+    {
+      "source": "Horae",
+      "target": "Nature"
+    },
+    {
+      "source": "Karmanor",
+      "target": "Nature"
+    },
+    {
+      "source": "Nymps",
+      "target": "Nature"
+    },
+    {
+      "source": "Dryads",
+      "target": "Nature"
+    },
+    {
+      "source": "Pan",
+      "target": "Nature"
+    },
+    {
+      "source": "Persephone",
+      "target": "Nature"
+    },
+    {
+      "source": "Physis",
+      "target": "Nature"
+    },
+    {
+      "source": "Rhea",
+      "target": "Nature"
+    },
+    {
+      "source": "Satyrs",
+      "target": "Nature"
+    },
+    {
+      "source": "Bacchus",
+      "target": "Nature"
+    },
+    {
+      "source": "Ceres",
+      "target": "Nature"
+    },
+    {
+      "source": "Diana",
+      "target": "Nature"
+    },
+    {
+      "source": "Faunus",
+      "target": "Nature"
+    },
+    {
+      "source": "Feronia",
+      "target": "Nature"
+    },
+    {
+      "source": "Flora",
+      "target": "Nature"
+    },
+    {
+      "source": "Fufluns",
+      "target": "Nature"
+    },
+    {
+      "source": "Liber",
+      "target": "Nature"
+    },
+    {
+      "source": "Nemestrinus",
+      "target": "Nature"
+    },
+    {
+      "source": "Ops",
+      "target": "Nature"
+    },
+    {
+      "source": "Pilumnus",
+      "target": "Nature"
+    },
+    {
+      "source": "Pomona",
+      "target": "Nature"
+    },
+    {
+      "source": "Silvanus",
+      "target": "Nature"
+    },
+    {
+      "source": "Terra",
+      "target": "Nature"
+    },
+    {
+      "source": "Ash",
+      "target": "Nature"
+    },
+    {
+      "source": "Geb",
+      "target": "Nature"
+    },
+    {
+      "source": "Aja",
+      "target": "Nature"
+    },
+    {
+      "source": "Osanyin",
+      "target": "Nature"
+    },
+    {
+      "source": "Dhat-Badan",
+      "target": "Nature"
+    },
+    {
+      "source": "Selvans",
+      "target": "Nature"
+    },
+    {
+      "source": "Damu",
+      "target": "Nature"
+    },
+    {
+      "source": "Emesh",
+      "target": "Nature"
+    },
+    {
+      "source": "Kishar",
+      "target": "Nature"
+    },
+    {
+      "source": "Ninsar",
+      "target": "Nature"
+    },
+
+
+
+
+
+    {
+      "source": "Nótt",
+      "target": "Night"
+    },
+    {
+      "source": "Zorya Vechernyaya",
+      "target": "Night"
+    },
+    {
+      "source": "Ratri",
+      "target": "Night"
+    },
+    {
+      "source": "Chandra",
+      "target": "Night"
+    },
+    {
+      "source": "Indra",
+      "target": "Night"
+    },
+    {
+      "source": "Kali",
+      "target": "Night"
+    },
+    {
+      "source": "Achlys",
+      "target": "Night"
+    },
+    {
+      "source": "Artemis",
+      "target": "Night"
+    },
+    {
+      "source": "Asteria",
+      "target": "Night"
+    },
+    {
+      "source": "Erebus",
+      "target": "Night"
+    },
+    {
+      "source": "Hecate",
+      "target": "Night"
+    },
+    {
+      "source": "Hypnos",
+      "target": "Night"
+    },
+    {
+      "source": "Nyx",
+      "target": "Night"
+    },
+    {
+      "source": "Selene",
+      "target": "Night"
+    },
+    {
+      "source": "Thanatos",
+      "target": "Night"
+    },
+    {
+      "source": "Diana",
+      "target": "Night"
+    },
+    {
+      "source": "Latona",
+      "target": "Night"
+    },
+    {
+      "source": "Luna",
+      "target": "Night"
+    },
+    {
+      "source": "Nox",
+      "target": "Night"
+    },
+    {
+      "source": "Scotus",
+      "target": "Night"
+    },
+    {
+      "source": "Summanus",
+      "target": "Night"
+    },
+    {
+      "source": "Somnus",
+      "target": "Night"
+    },
+    {
+      "source": "Apep",
+      "target": "Night"
+    },
+    {
+      "source": "Kuk",
+      "target": "Night"
+    },
+    {
+      "source": "Khonsu",
+      "target": "Night"
+    },
+    {
+      "source": "Nut",
+      "target": "Night"
+    },
+    {
+      "source": "Al-Quam",
+      "target": "Night"
+    },
+    {
+      "source": "Artume",
+      "target": "Night"
+    },
+    {
+      "source": "Angra Mainyi (Ahriman)",
+      "target": "Night"
+    },
+
+
+
+
+
+    {
+      "source": "Freyr",
+      "target": "Rain"
+    },
+    {
+      "source": "Dodola",
+      "target": "Rain"
+    },
+    {
+      "source": "Indra",
+      "target": "Rain"
+    },
+    {
+      "source": "Mariamman",
+      "target": "Rain"
+    },
+    {
+      "source": "Varuna",
+      "target": "Rain"
+    },
+    {
+      "source": "Mangwe",
+      "target": "Rain"
+    },
+    {
+      "source": "Oya",
+      "target": "Rain"
+    },
+    {
+      "source": "Ba'al",
+      "target": "Rain"
+    },
+    {
+      "source": "Adad",
+      "target": "Rain"
+    },
+
+
+
+
+
+    {
+      "source": "Dagr",
+      "target": "Sky"
+    },
+    {
+      "source": "Ēostre",
+      "target": "Sky"
+    },
+    {
+      "source": "Mēnô",
+      "target": "Sky"
+    },
+    {
+      "source": "Nótt",
+      "target": "Sky"
+    },
+    {
+      "source": "Sōwilō",
+      "target": "Sky"
+    },
+    {
+      "source": "Teiwaz",
+      "target": "Sky"
+    },
+    {
+      "source": "Ukko",
+      "target": "Sky"
+    },
+    {
+      "source": "Auštaras",
+      "target": "Sky"
+    },
+    {
+      "source": "Dievs",
+      "target": "Sky"
+    },
+    {
+      "source": "Vejopatis",
+      "target": "Sky"
+    },
+    {
+      "source": "Stribog",
+      "target": "Sky"
+    },
+    {
+      "source": "Triglav",
+      "target": "Sky"
+    },
+    {
+      "source": "Latobius",
+      "target": "Sky"
+    },
+    {
+      "source": "Nuada",
+      "target": "Sky"
+    },
+    {
+      "source": "Amaterasu-Ōmikami",
+      "target": "Sky"
+    },
+    {
+      "source": "Amenominakanushi",
+      "target": "Sky"
+    },
+    {
+      "source": "Izanagi",
+      "target": "Sky"
+    },
+    {
+      "source": "Izanami",
+      "target": "Sky"
+    },
+    {
+      "source": "Tuskuyomi",
+      "target": "Sky"
+    },
+    {
+      "source": "Hwanin",
+      "target": "Sky"
+    },
+    {
+      "source": "Hwanung",
+      "target": "Sky"
+    },
+    {
+      "source": "Caditi",
+      "target": "Sky"
+    },
+    {
+      "source": "Chandra",
+      "target": "Sky"
+    },
+    {
+      "source": "Dyauspitar",
+      "target": "Sky"
+    },
+    {
+      "source": "Indra",
+      "target": "Sky"
+    },
+    {
+      "source": "Ratri",
+      "target": "Sky"
+    },
+    {
+      "source": "Surya",
+      "target": "Sky"
+    },
+    {
+      "source": "Ushas",
+      "target": "Sky"
+    },
+    {
+      "source": "Aether",
+      "target": "Sky"
+    },
+    {
+      "source": "Astraeus",
+      "target": "Sky"
+    },
+    {
+      "source": "Eos",
+      "target": "Sky"
+    },
+    {
+      "source": "Helios",
+      "target": "Sky"
+    },
+    {
+      "source": "Hemera",
+      "target": "Sky"
+    },
+    {
+      "source": "Hera",
+      "target": "Sky"
+    },
+    {
+      "source": "Iris",
+      "target": "Sky"
+    },
+    {
+      "source": "Nyx",
+      "target": "Sky"
+    },
+    {
+      "source": "Selene",
+      "target": "Sky"
+    },
+    {
+      "source": "Uranus",
+      "target": "Sky"
+    },
+    {
+      "source": "Zeus",
+      "target": "Sky"
+    },
+    {
+      "source": "Aurora",
+      "target": "Sky"
+    },
+    {
+      "source": "Caulus",
+      "target": "Sky"
+    },
+    {
+      "source": "Juno",
+      "target": "Sky"
+    },
+    {
+      "source": "Jupiter",
+      "target": "Sky"
+    },
+    {
+      "source": "Luna",
+      "target": "Sky"
+    },
+    {
+      "source": "Nox",
+      "target": "Sky"
+    },
+    {
+      "source": "Sol",
+      "target": "Sky"
+    },
+    {
+      "source": "Summanus",
+      "target": "Sky"
+    },
+    {
+      "source": "Amun",
+      "target": "Sky"
+    },
+    {
+      "source": "Hathor",
+      "target": "Sky"
+    },
+    {
+      "source": "Horus",
+      "target": "Sky"
+    },
+    {
+      "source": "Khonsu",
+      "target": "Sky"
+    },
+    {
+      "source": "Mehet-Weret",
+      "target": "Sky"
+    },
+    {
+      "source": "Nut",
+      "target": "Sky"
+    },
+    {
+      "source": "Ra",
+      "target": "Sky"
+    },
+    {
+      "source": "Shu",
+      "target": "Sky"
+    },
+    {
+      "source": "Thoth",
+      "target": "Sky"
+    },
+    {
+      "source": "Mulungu",
+      "target": "Sky"
+    },
+    {
+      "source": "Nyame",
+      "target": "Sky"
+    },
+    {
+      "source": "Olorun",
+      "target": "Sky"
+    },
+    {
+      "source": "Shango",
+      "target": "Sky"
+    },
+    {
+      "source": "Umvelinquangi",
+      "target": "Sky"
+    },
+    {
+      "source": "Xamaba",
+      "target": "Sky"
+    },
+    {
+      "source": "Dyeus",
+      "target": "Sky"
+    },
+    {
+      "source": "Hausos",
+      "target": "Sky"
+    },
+    {
+      "source": "Asmān",
+      "target": "Sky"
+    },
+    {
+      "source": "Māh",
+      "target": "Sky"
+    },
+    {
+      "source": "Ohrmazd",
+      "target": "Sky"
+    },
+    {
+      "source": "Tīštar",
+      "target": "Sky"
+    },
+    {
+      "source": "Xwarxšēd",
+      "target": "Sky"
+    },
+    {
+      "source": "Uša",
+      "target": "Sky"
+    },
+    {
+      "source": "Sabazios",
+      "target": "Sky"
+    },
+    {
+      "source": "Tengri",
+      "target": "Sky"
+    },
+    {
+      "source": "Kayra",
+      "target": "Sky"
+    },
+    {
+      "source": "Ani",
+      "target": "Sky"
+    },
+    {
+      "source": "Tinia",
+      "target": "Sky"
+    },
+    {
+      "source": "Anshar",
+      "target": "Sky"
+    },
+    {
+      "source": "Anu",
+      "target": "Sky"
+    },
+    {
+      "source": "Enlil",
+      "target": "Sky"
+    },
+    {
+      "source": "Uto",
+      "target": "Sky"
+    },
+
+
+
+
+
+    {
+      "source": "Ilmarinen",
+      "target": "Smithing"
+    },
+    {
+      "source": "Wayland the Smith",
+      "target": "Smithing"
+    },
+    {
+      "source": "Svarog",
+      "target": "Smithing"
+    },
+    {
+      "source": "Briganti",
+      "target": "Smithing"
+    },
+    {
+      "source": "Brigid",
+      "target": "Smithing"
+    },
+    {
+      "source": "Credhne",
+      "target": "Smithing"
+    },
+    {
+      "source": "Gofannon",
+      "target": "Smithing"
+    },
+    {
+      "source": "Goibniu",
+      "target": "Smithing"
+    },
+    {
+      "source": "Kagu-tsuchi",
+      "target": "Smithing"
+    },
+    {
+      "source": "Vishvakarman",
+      "target": "Smithing"
+    },
+    {
+      "source": "Athena",
+      "target": "Smithing"
+    },
+    {
+      "source": "Cyclops",
+      "target": "Smithing"
+    },
+    {
+      "source": "Hephaestus",
+      "target": "Smithing"
+    },
+    {
+      "source": "Gobannus",
+      "target": "Smithing"
+    },
+    {
+      "source": "Vulcan",
+      "target": "Smithing"
+    },
+    {
+      "source": "Ptah",
+      "target": "Smithing"
+    },
+    {
+      "source": "Seker",
+      "target": "Smithing"
+    },
+    {
+      "source": "Ikenga",
+      "target": "Smithing"
+    },
+    {
+      "source": "Gibil",
+      "target": "Smithing"
+    },
+    {
+      "source": "Sethlans",
+      "target": "Smithing"
+    },
+
+
+
+
+
+    {
+      "source": "Päivätär",
+      "target": "Sun"
+    },
+    {
+      "source": "Sól",
+      "target": "Sun"
+    },
+    {
+      "source": "Dažbog",
+      "target": "Sun"
+    },
+    {
+      "source": "Hors",
+      "target": "Sun"
+    },
+    {
+      "source": "Áine",
+      "target": "Sun"
+    },
+    {
+      "source": "Alaunus",
+      "target": "Sun"
+    },
+    {
+      "source": "Belenos",
+      "target": "Sun"
+    },
+    {
+      "source": "Étaín",
+      "target": "Sun"
+    },
+    {
+      "source": "Epona",
+      "target": "Sun"
+    },
+    {
+      "source": "Olwen",
+      "target": "Sun"
+    },
+    {
+      "source": "Sulis",
+      "target": "Sun"
+    },
+    {
+      "source": "Amaterasu-Ōmikami",
+      "target": "Sun"
+    },
+    {
+      "source": "Aryamna",
+      "target": "Sun"
+    },
+    {
+      "source": "Surya",
+      "target": "Sun"
+    },
+    {
+      "source": "Alectrona",
+      "target": "Sun"
+    },
+    {
+      "source": "Apollo",
+      "target": "Sun"
+    },
+    {
+      "source": "Athena",
+      "target": "Sun"
+    },
+    {
+      "source": "Eos",
+      "target": "Sun"
+    },
+    {
+      "source": "Helios",
+      "target": "Sun"
+    },
+    {
+      "source": "Aurora",
+      "target": "Sun"
+    },
+    {
+      "source": "Sol",
+      "target": "Sun"
+    },
+    {
+      "source": "Amun",
+      "target": "Sun"
+    },
+    {
+      "source": "Aten",
+      "target": "Sun"
+    },
+    {
+      "source": "Atum",
+      "target": "Sun"
+    },
+    {
+      "source": "Bast",
+      "target": "Sun"
+    },
+    {
+      "source": "Horus",
+      "target": "Sun"
+    },
+    {
+      "source": "Ptah",
+      "target": "Sun"
+    },
+    {
+      "source": "Ra",
+      "target": "Sun"
+    },
+    {
+      "source": "Sekhmet",
+      "target": "Sun"
+    },
+    {
+      "source": "Sopdu",
+      "target": "Sun"
+    },
+    {
+      "source": "Magec",
+      "target": "Sun"
+    },
+    {
+      "source": "Mawu",
+      "target": "Sun"
+    },
+    {
+      "source": "Ngai",
+      "target": "Sun"
+    },
+    {
+      "source": "Shapash",
+      "target": "Sun"
+    },
+    {
+      "source": "Usil",
+      "target": "Sun"
+    },
+    {
+      "source": "Gun Ana",
+      "target": "Sun"
+    },
+    {
+      "source": "Koyash",
+      "target": "Sun"
+    },
+    {
+      "source": "Mithra",
+      "target": "Sun"
+    },
+
+
+
+
+
+    {
+      "source": "Perkūnas",
+      "target": "Thunder"
+    },
+    {
+      "source": "Thor",
+      "target": "Thunder"
+    },
+    {
+      "source": "Taara",
+      "target": "Thunder"
+    },
+    {
+      "source": "Perun",
+      "target": "Thunder"
+    },
+    {
+      "source": "Taranis",
+      "target": "Thunder"
+    },
+    {
+      "source": "Ajisukitakahikone",
+      "target": "Thunder"
+    },
+    {
+      "source": "Raijin",
+      "target": "Thunder"
+    },
+    {
+      "source": "Tenjin",
+      "target": "Thunder"
+    },
+    {
+      "source": "Susanoo",
+      "target": "Thunder"
+    },
+    {
+      "source": "Takemikazuchi",
+      "target": "Thunder"
+    },
+    {
+      "source": "Indra",
+      "target": "Thunder"
+    },
+    {
+      "source": "Prajanya",
+      "target": "Thunder"
+    },
+    {
+      "source": "Vajrapani",
+      "target": "Thunder"
+    },
+    {
+      "source": "Zeus",
+      "target": "Thunder"
+    },
+    {
+      "source": "Astrape and Brontes",
+      "target": "Thunder"
+    },
+    {
+      "source": "Jupiter",
+      "target": "Thunder"
+    },
+    {
+      "source": "Summanus",
+      "target": "Thunder"
+    },
+    {
+      "source": "Fulgora",
+      "target": "Thunder"
+    },
+    {
+      "source": "Set",
+      "target": "Thunder"
+    },
+    {
+      "source": "Shango",
+      "target": "Thunder"
+    },
+    {
+      "source": "Oya",
+      "target": "Thunder"
+    },
+    {
+      "source": "Adad",
+      "target": "Thunder"
+    },
+    {
+      "source": "Bel",
+      "target": "Thunder"
+    },
+    {
+      "source": "Ishkur",
+      "target": "Thunder"
+    },
+    {
+      "source": "Marduk",
+      "target": "Thunder"
+    },
+    {
+      "source": "Ba'al",
+      "target": "Thunder"
+    },
+
+
+
+
+
+    {
+      "source": "Mielikki",
+      "target": "Trees"
+    },
+    {
+      "source": "Tapio",
+      "target": "Trees"
+    },
+    {
+      "source": "Kodama",
+      "target": "Trees"
+    },
+    {
+      "source": "Dryads",
+      "target": "Trees"
+    },
+    {
+      "source": "Hathor",
+      "target": "Trees"
+    },
+
+
+
+
+
+    {
+      "source": "Loki",
+      "target": "Trickery"
+    },
+    {
+      "source": "Kitsune",
+      "target": "Trickery"
+    },
+    {
+      "source": "Susanoo",
+      "target": "Trickery"
+    },
+    {
+      "source": "Dionysus",
+      "target": "Trickery"
+    },
+    {
+      "source": "Eris",
+      "target": "Trickery"
+    },
+    {
+      "source": "Hermes",
+      "target": "Trickery"
+    },
+    {
+      "source": "Pan",
+      "target": "Trickery"
+    },
+    {
+      "source": "Prometheus",
+      "target": "Trickery"
+    },
+    {
+      "source": "Sisyphus",
+      "target": "Trickery"
+    },
+    {
+      "source": "Anansi",
+      "target": "Trickery"
+    },
+    {
+      "source": "Eshu",
+      "target": "Trickery"
+    },
+    {
+      "source": "John the Conqueror",
+      "target": "Trickery"
+    },
+
+
+
+
+
+    {
+      "source": "Rauni",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Jarylo",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Blodeuwedd",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Modron",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Attis",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Cronus",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Demeter",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Dionysus",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Persephone",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Ceres",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Proserpina",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Saturn",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Osiris",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Emesh",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Ba'al",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Ningishzida",
+      "target": "Vegetation"
+    },
+    {
+      "source": "Tammuz",
+      "target": "Vegetation"
+    },
+
+
+
+
+
+    {
+      "source": "Idis",
+      "target": "War"
+    },
+    {
+      "source": "Týr",
+      "target": "War"
+    },
+    {
+      "source": "Odin",
+      "target": "War"
+    },
+    {
+      "source": "Dís",
+      "target": "War"
+    },
+    {
+      "source": "Freyja",
+      "target": "War"
+    },
+    {
+      "source": "Ullr",
+      "target": "War"
+    },
+    {
+      "source": "Valkyries",
+      "target": "War"
+    },
+    {
+      "source": "Jarovit",
+      "target": "War"
+    },
+    {
+      "source": "Perun",
+      "target": "War"
+    },
+    {
+      "source": "Svetovid",
+      "target": "War"
+    },
+    {
+      "source": "Zorya Utrennaya",
+      "target": "War"
+    },
+    {
+      "source": "Alaisiagae",
+      "target": "War"
+    },
+    {
+      "source": "Andarta",
+      "target": "War"
+    },
+    {
+      "source": "Anann",
+      "target": "War"
+    },
+    {
+      "source": "Badb",
+      "target": "War"
+    },
+    {
+      "source": "Macha",
+      "target": "War"
+    },
+    {
+      "source": "The Morrigan",
+      "target": "War"
+    },
+    {
+      "source": "Neit",
+      "target": "War"
+    },
+    {
+      "source": "Nemain",
+      "target": "War"
+    },
+    {
+      "source": "Futsunushi",
+      "target": "War"
+    },
+    {
+      "source": "Hachiman Daimyōjin",
+      "target": "War"
+    },
+    {
+      "source": "Sarutahiko",
+      "target": "War"
+    },
+    {
+      "source": "Takemikazuchi",
+      "target": "War"
+    },
+    {
+      "source": "Suwa Myōjin",
+      "target": "War"
+    },
+    {
+      "source": "Bishamonten",
+      "target": "War"
+    },
+    {
+      "source": "Kartikeya",
+      "target": "War"
+    },
+    {
+      "source": "Nirrti",
+      "target": "War"
+    },
+    {
+      "source": "Parvati",
+      "target": "War"
+    },
+    {
+      "source": "Shiva",
+      "target": "War"
+    },
+    {
+      "source": "Vishnu",
+      "target": "War"
+    },
+    {
+      "source": "Ares",
+      "target": "War"
+    },
+    {
+      "source": "Athena",
+      "target": "War"
+    },
+    {
+      "source": "Eris",
+      "target": "War"
+    },
+    {
+      "source": "Hera",
+      "target": "War"
+    },
+    {
+      "source": "Kratos",
+      "target": "War"
+    },
+    {
+      "source": "Pallas",
+      "target": "War"
+    },
+    {
+      "source": "Perses",
+      "target": "War"
+    },
+    {
+      "source": "Bellona",
+      "target": "War"
+    },
+    {
+      "source": "Honos",
+      "target": "War"
+    },
+    {
+      "source": "Juno",
+      "target": "War"
+    },
+    {
+      "source": "Mars",
+      "target": "War"
+    },
+    {
+      "source": "Minerva",
+      "target": "War"
+    },
+    {
+      "source": "Nerio",
+      "target": "War"
+    },
+    {
+      "source": "Victoria",
+      "target": "War"
+    },
+    {
+      "source": "Virtus",
+      "target": "War"
+    },
+    {
+      "source": "Bast",
+      "target": "War"
+    },
+    {
+      "source": "Horus",
+      "target": "War"
+    },
+    {
+      "source": "Maahes",
+      "target": "War"
+    },
+    {
+      "source": "Menhit",
+      "target": "War"
+    },
+    {
+      "source": "Montu",
+      "target": "War"
+    },
+    {
+      "source": "Neith",
+      "target": "War"
+    },
+    {
+      "source": "Pakhet",
+      "target": "War"
+    },
+    {
+      "source": "Satet",
+      "target": "War"
+    },
+    {
+      "source": "Sekhmet",
+      "target": "War"
+    },
+    {
+      "source": "Set",
+      "target": "War"
+    },
+    {
+      "source": "Sobek",
+      "target": "War"
+    },
+    {
+      "source": "Sopdu",
+      "target": "War"
+    },
+    {
+      "source": "Wepwawet",
+      "target": "War"
+    },
+    {
+      "source": "Gurzil",
+      "target": "War"
+    },
+    {
+      "source": "Ifri",
+      "target": "War"
+    },
+    {
+      "source": "Kokou",
+      "target": "War"
+    },
+    {
+      "source": "Ogoun",
+      "target": "War"
+    },
+    {
+      "source": "Oya",
+      "target": "War"
+    },
+    {
+      "source": "Anahit",
+      "target": "War"
+    },
+    {
+      "source": "Sabazios",
+      "target": "War"
+    },
+    {
+      "source": "Thracian Rider",
+      "target": "War"
+    },
+    {
+      "source": "Menrva",
+      "target": "War"
+    },
+    {
+      "source": "Laran",
+      "target": "War"
+    },
+    {
+      "source": "Neto",
+      "target": "War"
+    },
+    {
+      "source": "Agasaya",
+      "target": "War"
+    },
+    {
+      "source": "Bel",
+      "target": "War"
+    },
+    {
+      "source": "Inanna",
+      "target": "War"
+    },
+    {
+      "source": "Ishtar",
+      "target": "War"
+    },
+    {
+      "source": "Nergal",
+      "target": "War"
+    },
+    {
+      "source": "Shulmanu",
+      "target": "War"
+    },
+    {
+      "source": "Anat",
+      "target": "War"
+    },
+    {
+      "source": "Astarte",
+      "target": "War"
+    },
+    {
+      "source": "Resheph",
+      "target": "War"
+    },
+    {
+      "source": "Tanit",
+      "target": "War"
+    },
+    {
+      "source": "Kyzaghan",
+      "target": "War"
+    },
+
+
+
+
+
+    {
+      "source": "Ahti",
+      "target": "Water"
+    },
+    {
+      "source": "Vedenemo",
+      "target": "Water"
+    },
+    {
+      "source": "Vellamo",
+      "target": "Water"
+    },
+    {
+      "source": "Ægir",
+      "target": "Water"
+    },
+    {
+      "source": "Freyr",
+      "target": "Water"
+    },
+    {
+      "source": "Nehallenia",
+      "target": "Water"
+    },
+    {
+      "source": "Nerthus",
+      "target": "Water"
+    },
+    {
+      "source": "Nix",
+      "target": "Water"
+    },
+    {
+      "source": "Njordr",
+      "target": "Water"
+    },
+    {
+      "source": "Rán",
+      "target": "Water"
+    },
+    {
+      "source": "Sága",
+      "target": "Water"
+    },
+    {
+      "source": "Kostroma",
+      "target": "Water"
+    },
+    {
+      "source": "Mokosh",
+      "target": "Water"
+    },
+    {
+      "source": "Rusalki",
+      "target": "Water"
+    },
+    {
+      "source": "Veles",
+      "target": "Water"
+    },
+    {
+      "source": "Vodyanoi",
+      "target": "Water"
+    },
+    {
+      "source": "Danu (Celtic)",
+      "target": "Water"
+    },
+    {
+      "source": "Llŷr",
+      "target": "Water"
+    },
+    {
+      "source": "Nantosuelta",
+      "target": "Water"
+    },
+    {
+      "source": "Nodens",
+      "target": "Water"
+    },
+    {
+      "source": "Ebisu",
+      "target": "Water"
+    },
+    {
+      "source": "Hanzaki Daimyojin",
+      "target": "Water"
+    },
+    {
+      "source": "Ōhoyamatsumi",
+      "target": "Water"
+    },
+    {
+      "source": "Mizuchi",
+      "target": "Water"
+    },
+    {
+      "source": "Ryūjin",
+      "target": "Water"
+    },
+    {
+      "source": "Suijin",
+      "target": "Water"
+    },
+    {
+      "source": "Sumiyoshi sanjin",
+      "target": "Water"
+    },
+    {
+      "source": "Susanoo",
+      "target": "Water"
+    },
+    {
+      "source": "Watatsumi",
+      "target": "Water"
+    },
+    {
+      "source": "Imugi",
+      "target": "Water"
+    },
+    {
+      "source": "Ap",
+      "target": "Water"
+    },
+    {
+      "source": "Apam Napat",
+      "target": "Water"
+    },
+    {
+      "source": "Danu (Indo)",
+      "target": "Water"
+    },
+    {
+      "source": "Saraswati",
+      "target": "Water"
+    },
+    {
+      "source": "Varuna",
+      "target": "Water"
+    },
+    {
+      "source": "Aegaeon",
+      "target": "Water"
+    },
+    {
+      "source": "Amphitrite",
+      "target": "Water"
+    },
+    {
+      "source": "Carcinus",
+      "target": "Water"
+    },
+    {
+      "source": "Ceto",
+      "target": "Water"
+    },
+    {
+      "source": "Charybdis",
+      "target": "Water"
+    },
+    {
+      "source": "Doris",
+      "target": "Water"
+    },
+    {
+      "source": "Electra",
+      "target": "Water"
+    },
+    {
+      "source": "Leucothea",
+      "target": "Water"
+    },
+    {
+      "source": "Nerites",
+      "target": "Water"
+    },
+    {
+      "source": "Nereus",
+      "target": "Water"
+    },
+    {
+      "source": "Oceanus",
+      "target": "Water"
+    },
+    {
+      "source": "Phorcys",
+      "target": "Water"
+    },
+    {
+      "source": "Pontus",
+      "target": "Water"
+    },
+    {
+      "source": "Poseidon",
+      "target": "Water"
+    },
+    {
+      "source": "Potamoi",
+      "target": "Water"
+    },
+    {
+      "source": "Proteus",
+      "target": "Water"
+    },
+    {
+      "source": "Psamathe",
+      "target": "Water"
+    },
+    {
+      "source": "Tethys",
+      "target": "Water"
+    },
+    {
+      "source": "Thalassa",
+      "target": "Water"
+    },
+    {
+      "source": "Thaumas",
+      "target": "Water"
+    },
+    {
+      "source": "Triton",
+      "target": "Water"
+    },
+    {
+      "source": "Fontus",
+      "target": "Water"
+    },
+    {
+      "source": "Juturna",
+      "target": "Water"
+    },
+    {
+      "source": "Neptune",
+      "target": "Water"
+    },
+    {
+      "source": "Salacia",
+      "target": "Water"
+    },
+    {
+      "source": "Volturnus",
+      "target": "Water"
+    },
+    {
+      "source": "Anuket",
+      "target": "Water"
+    },
+    {
+      "source": "Hapi",
+      "target": "Water"
+    },
+    {
+      "source": "Khnum",
+      "target": "Water"
+    },
+    {
+      "source": "Nephthys",
+      "target": "Water"
+    },
+    {
+      "source": "Nu",
+      "target": "Water"
+    },
+    {
+      "source": "Osiris",
+      "target": "Water"
+    },
+    {
+      "source": "Satet",
+      "target": "Water"
+    },
+    {
+      "source": "Sobek",
+      "target": "Water"
+    },
+    {
+      "source": "Tefnut",
+      "target": "Water"
+    },
+    {
+      "source": "Oshun",
+      "target": "Water"
+    },
+    {
+      "source": "Olokun",
+      "target": "Water"
+    },
+    {
+      "source": "Yemoja",
+      "target": "Water"
+    },
+    {
+      "source": "Yam",
+      "target": "Water"
+    },
+    {
+      "source": "Aruna",
+      "target": "Water"
+    },
+    {
+      "source": "Hatepuna",
+      "target": "Water"
+    },
+    {
+      "source": "Abzu",
+      "target": "Water"
+    },
+    {
+      "source": "Marduk",
+      "target": "Water"
+    },
+    {
+      "source": "Nammu",
+      "target": "Water"
+    },
+    {
+      "source": "Nanshe",
+      "target": "Water"
+    },
+    {
+      "source": "Sirsir",
+      "target": "Water"
+    },
+    {
+      "source": "Tiamat",
+      "target": "Water"
+    },
+    {
+      "source": "Ahurani",
+      "target": "Water"
+    },
+    {
+      "source": "Anahita",
+      "target": "Water"
+    },
+    {
+      "source": "Apam Napat",
+      "target": "Water"
+    },
+    {
+      "source": "Tishtrya",
+      "target": "Water"
+    },
+    {
+      "source": "Ak Ana",
+      "target": "Water"
+    },
+
+
+
+
+
+    {
+      "source": "Audra",
+      "target": "Weather"
+    },
+    {
+      "source": "Freyr",
+      "target": "Weather"
+    },
+    {
+      "source": "Thor",
+      "target": "Weather"
+    },
+    {
+      "source": "Ukko",
+      "target": "Weather"
+    },
+    {
+      "source": "Perun",
+      "target": "Weather"
+    },
+    {
+      "source": "Taranis",
+      "target": "Weather"
+    },
+    {
+      "source": "Fūjin",
+      "target": "Weather"
+    },
+    {
+      "source": "Raijin",
+      "target": "Weather"
+    },
+    {
+      "source": "Susanoo",
+      "target": "Weather"
+    },
+    {
+      "source": "Indra",
+      "target": "Weather"
+    },
+    {
+      "source": "Mariamman",
+      "target": "Weather"
+    },
+    {
+      "source": "Vayu",
+      "target": "Weather"
+    },
+    {
+      "source": "Anemoi",
+      "target": "Weather"
+    },
+    {
+      "source": "Zeus",
+      "target": "Weather"
+    },
+    {
+      "source": "Jupiter",
+      "target": "Weather"
+    },
+    {
+      "source": "Perkūnas",
+      "target": "Weather"
+    },
+    {
+      "source": "Tempestas",
+      "target": "Weather"
+    },
+    {
+      "source": "Horus",
+      "target": "Weather"
+    },
+    {
+      "source": "Set",
+      "target": "Weather"
+    },
+    {
+      "source": "Oya",
+      "target": "Weather"
+    },
+    {
+      "source": "Adad",
+      "target": "Weather"
+    },
+    {
+      "source": "Ba'al",
+      "target": "Weather"
+    },
+    {
+      "source": "Marduk",
+      "target": "Weather"
+    },
+    {
+      "source": "Tarhunna",
+      "target": "Weather"
+    },
+    {
+      "source": "Teshub",
+      "target": "Weather"
+    },
+    {
+      "source": "Yahweh",
+      "target": "Weather"
+    },
+
+
+
+
+
+    {
+      "source": "Ilmarinen",
+      "target": "Wind"
+    },
+    {
+      "source": "Tuuletar",
+      "target": "Wind"
+    },
+    {
+      "source": "Kári",
+      "target": "Wind"
+    },
+    {
+      "source": "Njordr",
+      "target": "Wind"
+    },
+    {
+      "source": "Odin",
+      "target": "Wind"
+    },
+    {
+      "source": "Dogoda",
+      "target": "Wind"
+    },
+    {
+      "source": "Stribog",
+      "target": "Wind"
+    },
+    {
+      "source": "Varpulis",
+      "target": "Wind"
+    },
+    {
+      "source": "Aos Sí",
+      "target": "Wind"
+    },
+    {
+      "source": "Fūjin",
+      "target": "Wind"
+    },
+    {
+      "source": "Shinatobe",
+      "target": "Wind"
+    },
+    {
+      "source": "Rudra",
+      "target": "Wind"
+    },
+    {
+      "source": "Vayu",
+      "target": "Wind"
+    },
+    {
+      "source": "Anemoi",
+      "target": "Wind"
+    },
+    {
+      "source": "Aura",
+      "target": "Wind"
+    },
+    {
+      "source": "Cardea",
+      "target": "Wind"
+    },
+    {
+      "source": "Amun",
+      "target": "Wind"
+    },
+    {
+      "source": "Shu",
+      "target": "Wind"
+    },
+    {
+      "source": "Enlil",
+      "target": "Wind"
+    },
+    {
+      "source": "Ninlil",
+      "target": "Wind"
+    },
+    {
+      "source": "Pazuzu",
+      "target": "Wind"
+    }
+
+  ]
+
+}
