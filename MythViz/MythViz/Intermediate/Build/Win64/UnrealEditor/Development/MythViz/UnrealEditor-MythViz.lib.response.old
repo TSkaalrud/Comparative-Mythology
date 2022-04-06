@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MythViz.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"W:\Programming\Comparative-Mythology\MythViz\MythViz\Intermediate\Build\Win64\MythVizEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"W:\Programming\Comparative-Mythology\MythViz\MythViz\Intermediate\Build\Win64\UnrealEditor\Development\MythViz\NodeBase.cpp.obj"
+"W:\Programming\Comparative-Mythology\MythViz\MythViz\Intermediate\Build\Win64\UnrealEditor\Development\MythViz\MythViz.cpp.obj"
+"W:\Programming\Comparative-Mythology\MythViz\MythViz\Intermediate\Build\Win64\UnrealEditor\Development\MythViz\MythViz.init.gen.cpp.obj"
+"W:\Programming\Comparative-Mythology\MythViz\MythViz\Intermediate\Build\Win64\UnrealEditor\Development\MythViz\NodeBase.gen.cpp.obj"
+"W:\Programming\Comparative-Mythology\MythViz\MythViz\Intermediate\Build\Win64\UnrealEditor\Development\MythViz\Default.rc2.res"
+/OUT:"W:\Programming\Comparative-Mythology\MythViz\MythViz\Intermediate\Build\Win64\UnrealEditor\Development\MythViz\UnrealEditor-MythViz.lib"

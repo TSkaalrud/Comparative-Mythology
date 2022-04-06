@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "w:\\programming\\comparative-mythology\\mythviz\\mythviz\\intermediate\\build\\win64\\unrealeditor\\inc\\mythviz\\mythviz.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "w:\\programming\\comparative-mythology\\mythviz\\mythviz\\intermediate\\build\\win64\\mythvizeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "w:\\programming\\comparative-mythology\\mythviz\\mythviz\\intermediate\\build\\win64\\unrealeditor\\development\\mythviz\\definitions.mythviz.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

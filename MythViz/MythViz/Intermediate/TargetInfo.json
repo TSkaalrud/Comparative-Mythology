@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MythViz",
+			"Path": "W:\\Programming\\Comparative-Mythology\\MythViz\\MythViz\\Source\\MythViz.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MythVizEditor",
+			"Path": "W:\\Programming\\Comparative-Mythology\\MythViz\\MythViz\\Source\\MythVizEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

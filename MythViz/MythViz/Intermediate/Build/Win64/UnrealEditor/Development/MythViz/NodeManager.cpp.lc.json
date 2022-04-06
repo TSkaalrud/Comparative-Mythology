@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "w:\\programming\\comparative-mythology\\mythviz\\mythviz\\source\\mythviz\\private\\nodemanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "w:\\programming\\comparative-mythology\\mythviz\\mythviz\\intermediate\\build\\win64\\mythvizeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "w:\\programming\\comparative-mythology\\mythviz\\mythviz\\intermediate\\build\\win64\\unrealeditor\\development\\mythviz\\definitions.mythviz.h",
+            "w:\\programming\\comparative-mythology\\mythviz\\mythviz\\source\\mythviz\\public\\nodemanager.h",
+            "w:\\programming\\comparative-mythology\\mythviz\\mythviz\\intermediate\\build\\win64\\unrealeditor\\inc\\mythviz\\nodemanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
